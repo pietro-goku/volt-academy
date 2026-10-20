@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg width="800" height="450" preserveAspectRatio="xMinYMin meet" viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Painel apagado: observe antes de concluir</title>
+	<desc>Esquema didático autoral Volt Academy; arquiteturas variam por modelo.</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="800" height="450"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-450)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="800" height="450" rx="10" ry="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(95%,96%,98%); fill-rule: evenodd;"/>
+			<text x="30" y="423" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 10px;fill: rgb(5%,54%,47%); stroke:none;" transform="translate(0,846) scale(1,-1)">VOLT ACADEMY / VISUAL DE ESTUDO</text>
+			<text x="30" y="391" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 23px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,782) scale(1,-1)">Painel apagado: observe antes de concluir</text>
+			<path d="M 30,369 L 770,369 Z" style="stroke: rgb(85%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="30" y="22" style="font-family: Arial, sans-serif; font-size: 9px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,44) scale(1,-1)">ESQUEMA DIDÁTICO • ARQUITETURAS E PROCEDIMENTOS VARIAM POR MODELO</text>
+			<rect x="40" y="150" width="330" height="175" rx="16" ry="16" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,16%,25%); fill-rule: evenodd;"/>
+			<rect x="55" y="165" width="300" height="145" rx="10" ry="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,9%,13%); fill-rule: evenodd;"/>
+			<text x="109.71142578125" y="120" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,240) scale(1,-1)">Sem exibição / exemplo ilustrativo</text>
+			<rect x="411" y="257" width="340" height="73" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="411" y="257" width="4" height="73" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,53%,72%); fill-rule: evenodd;"/>
+			<text x="425" y="302" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,604) scale(1,-1)">Observar</text>
+			<text x="425" y="279" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,558) scale(1,-1)">Luzes internas e travas</text>
+			<rect x="411" y="169" width="340" height="73" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="411" y="169" width="4" height="73" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(5%,54%,47%); fill-rule: evenodd;"/>
+			<text x="425" y="214" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,428) scale(1,-1)">Registrar</text>
+			<text x="425" y="191" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,382) scale(1,-1)">Mensagem, data e último uso</text>
+			<path d="M 379,240 L 400,240 Z" style="stroke: rgb(5%,54%,47%); stroke-linecap: butt; stroke-width: 3;"/>
+			<polygon points="400 240, 390.9955 235.6503, 390.9955 244.3497" style="stroke: none; stroke-linecap: butt; stroke-width: 2; fill: rgb(5%,54%,47%); fill-rule: evenodd;"/>
+			<rect x="30" y="48" width="740" height="54" rx="9" ry="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,94%,92%); fill-rule: evenodd;"/>
+			<text x="45" y="78" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 13px;fill: rgb(5%,54%,47%); stroke:none;" transform="translate(0,156) scale(1,-1)">Observação: o que aconteceu. Hipótese: o que pode explicar.</text>
+		</g>
+	</g>
+</svg>

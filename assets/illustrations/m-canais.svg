@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg width="800" height="450" preserveAspectRatio="xMinYMin meet" viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Uma compra começa com informação</title>
+	<desc>Esquema didático autoral Volt Academy; arquiteturas variam por modelo.</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="800" height="450"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-450)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="800" height="450" rx="10" ry="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(95%,96%,98%); fill-rule: evenodd;"/>
+			<text x="30" y="423" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 10px;fill: rgb(5%,54%,47%); stroke:none;" transform="translate(0,846) scale(1,-1)">VOLT ACADEMY / VISUAL DE ESTUDO</text>
+			<text x="30" y="391" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 23px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,782) scale(1,-1)">Uma compra começa com informação</text>
+			<path d="M 30,369 L 770,369 Z" style="stroke: rgb(85%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="30" y="22" style="font-family: Arial, sans-serif; font-size: 9px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,44) scale(1,-1)">ESQUEMA DIDÁTICO • ARQUITETURAS E PROCEDIMENTOS VARIAM POR MODELO</text>
+			<rect x="35" y="152" width="230" height="159" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="35" y="152" width="4" height="159" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,53%,72%); fill-rule: evenodd;"/>
+			<text x="49" y="283" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,566) scale(1,-1)">Canal identificado</text>
+			<text x="49" y="260" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,520) scale(1,-1)">Rede da marca</text>
+			<text x="49" y="241" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,482) scale(1,-1)">Documentação do veículo</text>
+			<text x="49" y="222" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,444) scale(1,-1)">Fornecedor verificável</text>
+			<rect x="280" y="152" width="230" height="159" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="280" y="152" width="4" height="159" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,66%,16%); fill-rule: evenodd;"/>
+			<text x="294" y="283" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,566) scale(1,-1)">Orçamento escrito</text>
+			<text x="294" y="260" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,520) scale(1,-1)">Aplicação e condição</text>
+			<text x="294" y="241" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,482) scale(1,-1)">Preço e prazo</text>
+			<text x="294" y="222" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,444) scale(1,-1)">Garantia e devolução</text>
+			<rect x="525" y="152" width="230" height="159" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="525" y="152" width="4" height="159" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(5%,54%,47%); fill-rule: evenodd;"/>
+			<text x="539" y="283" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,566) scale(1,-1)">Compra consciente</text>
+			<text x="539" y="260" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,520) scale(1,-1)">Confirmação da peça</text>
+			<text x="539" y="241" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,482) scale(1,-1)">Instalação adequada</text>
+			<text x="539" y="222" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,444) scale(1,-1)">Comprovantes guardados</text>
+			<path d="M 268,232 L 278,232 Z" style="stroke: rgb(5%,54%,47%); stroke-linecap: butt; stroke-width: 3;"/>
+			<polygon points="278 232, 268.9955 227.6503, 268.9955 236.3497" style="stroke: none; stroke-linecap: butt; stroke-width: 2; fill: rgb(5%,54%,47%); fill-rule: evenodd;"/>
+			<path d="M 513,232 L 523,232 Z" style="stroke: rgb(5%,54%,47%); stroke-linecap: butt; stroke-width: 3;"/>
+			<polygon points="523 232, 513.9955 227.6503, 513.9955 236.3497" style="stroke: none; stroke-linecap: butt; stroke-width: 2; fill: rgb(5%,54%,47%); fill-rule: evenodd;"/>
+			<rect x="30" y="48" width="740" height="54" rx="9" ry="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,94%,92%); fill-rule: evenodd;"/>
+			<text x="45" y="78" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 13px;fill: rgb(5%,54%,47%); stroke:none;" transform="translate(0,156) scale(1,-1)">Não realize pagamentos por canais cuja identidade não foi confirmada.</text>
+		</g>
+	</g>
+</svg>

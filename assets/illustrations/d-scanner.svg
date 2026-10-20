@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg width="800" height="450" preserveAspectRatio="xMinYMin meet" viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Scanner: registro antes da troca de peça</title>
+	<desc>Esquema didático autoral Volt Academy; arquiteturas variam por modelo.</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="800" height="450"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-450)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="800" height="450" rx="10" ry="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(95%,96%,98%); fill-rule: evenodd;"/>
+			<text x="30" y="423" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 10px;fill: rgb(5%,54%,47%); stroke:none;" transform="translate(0,846) scale(1,-1)">VOLT ACADEMY / VISUAL DE ESTUDO</text>
+			<text x="30" y="391" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 23px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,782) scale(1,-1)">Scanner: registro antes da troca de peça</text>
+			<path d="M 30,369 L 770,369 Z" style="stroke: rgb(85%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="30" y="22" style="font-family: Arial, sans-serif; font-size: 9px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,44) scale(1,-1)">ESQUEMA DIDÁTICO • ARQUITETURAS E PROCEDIMENTOS VARIAM POR MODELO</text>
+			<rect x="68" y="122" width="246" height="220" rx="18" ry="18" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,16%,25%); fill-rule: evenodd;"/>
+			<rect x="89" y="192" width="204" height="128" rx="8" ry="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(81%,91%,89%); fill-rule: evenodd;"/>
+			<text x="110" y="289" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(5%,54%,47%); stroke:none;" transform="translate(0,578) scale(1,-1)">RELATÓRIO</text>
+			<text x="110" y="256" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 25px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,512) scale(1,-1)">P0XXX</text>
+			<text x="110" y="225" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,450) scale(1,-1)">Exemplo fictício</text>
+			<circle cx="120" cy="159" r="10" style="stroke: none; stroke-linecap: butt; stroke-width: 2; fill: rgb(32%,47%,55%); fill-rule: evenodd;"/>
+			<circle cx="190" cy="159" r="10" style="stroke: none; stroke-linecap: butt; stroke-width: 2; fill: rgb(32%,47%,55%); fill-rule: evenodd;"/>
+			<circle cx="260" cy="159" r="10" style="stroke: none; stroke-linecap: butt; stroke-width: 2; fill: rgb(32%,47%,55%); fill-rule: evenodd;"/>
+			<rect x="376" y="249" width="375" height="92" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="376" y="249" width="4" height="92" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,53%,72%); fill-rule: evenodd;"/>
+			<text x="390" y="313" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,626) scale(1,-1)">Preservar antes de apagar</text>
+			<text x="390" y="290" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,580) scale(1,-1)">Código, estado e dados associados.</text>
+			<rect x="376" y="123" width="375" height="109" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="376" y="123" width="4" height="109" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,66%,16%); fill-rule: evenodd;"/>
+			<text x="390" y="204" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,408) scale(1,-1)">Conferir cobertura da ferramenta</text>
+			<text x="390" y="181" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,362) scale(1,-1)">Modelo, módulos e função pretendida.</text>
+			<text x="390" y="162" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,324) scale(1,-1)">P0XXX não é um código real de reparo.</text>
+			<rect x="30" y="48" width="740" height="54" rx="9" ry="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,94%,92%); fill-rule: evenodd;"/>
+			<text x="45" y="78" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 13px;fill: rgb(5%,54%,47%); stroke:none;" transform="translate(0,156) scale(1,-1)">Descrição de código não é condenação automática de componente.</text>
+		</g>
+	</g>
+</svg>

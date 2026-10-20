@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg width="800" height="450" preserveAspectRatio="xMinYMin meet" viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>SOC e SOH respondem perguntas diferentes</title>
+	<desc>Esquema didático autoral Volt Academy; arquiteturas variam por modelo.</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="800" height="450"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-450)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="800" height="450" rx="10" ry="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(95%,96%,98%); fill-rule: evenodd;"/>
+			<text x="30" y="423" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 10px;fill: rgb(5%,54%,47%); stroke:none;" transform="translate(0,846) scale(1,-1)">VOLT ACADEMY / VISUAL DE ESTUDO</text>
+			<text x="30" y="391" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 23px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,782) scale(1,-1)">SOC e SOH respondem perguntas diferentes</text>
+			<path d="M 30,369 L 770,369 Z" style="stroke: rgb(85%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="30" y="22" style="font-family: Arial, sans-serif; font-size: 9px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,44) scale(1,-1)">ESQUEMA DIDÁTICO • ARQUITETURAS E PROCEDIMENTOS VARIAM POR MODELO</text>
+			<rect x="80" y="188" width="220" height="116" rx="9" ry="9" style="stroke: rgb(5%,54%,47%); stroke-linecap: butt; stroke-width: 2; fill: rgb(89%,95%,92%); fill-rule: evenodd;"/>
+			<rect x="300" y="225.12" width="9" height="41.75999999999999" rx="2" ry="2" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(5%,54%,47%); fill-rule: evenodd;"/>
+			<rect x="92.0" y="216" width="42.5" height="76" rx="3" ry="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,88%,87%); fill-rule: evenodd;"/>
+			<rect x="92.0" y="216" width="42.5" height="76" rx="3" ry="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(51%,78%,67%); fill-rule: evenodd;"/>
+			<rect x="141.0" y="216" width="42.5" height="76" rx="3" ry="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,88%,87%); fill-rule: evenodd;"/>
+			<rect x="141.0" y="216" width="42.5" height="76" rx="3" ry="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(51%,78%,67%); fill-rule: evenodd;"/>
+			<rect x="190.0" y="216" width="42.5" height="76" rx="3" ry="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,88%,87%); fill-rule: evenodd;"/>
+			<rect x="190.0" y="216" width="17.0" height="76" rx="3" ry="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(51%,78%,67%); fill-rule: evenodd;"/>
+			<rect x="239.0" y="216" width="42.5" height="76" rx="3" ry="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,88%,87%); fill-rule: evenodd;"/>
+			<text x="130.70068359375" y="198" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 10px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,396) scale(1,-1)">SOC: 60% / EXEMPLO</text>
+			<rect x="389" y="168" width="360" height="160" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="389" y="168" width="4" height="160" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,53%,72%); fill-rule: evenodd;"/>
+			<text x="403" y="300" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,600) scale(1,-1)">SOH: condição da bateria</text>
+			<text x="403" y="277" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,554) scale(1,-1)">Avaliação técnica e método específico.</text>
+			<text x="403" y="258" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,516) scale(1,-1)">Não é calculado pela autonomia</text>
+			<text x="403" y="239" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,478) scale(1,-1)">indicada em uma única viagem.</text>
+			<text x="83" y="144" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(5%,54%,47%); stroke:none;" transform="translate(0,288) scale(1,-1)">Quanta carga está disponível?</text>
+			<rect x="30" y="48" width="740" height="54" rx="9" ry="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,94%,92%); fill-rule: evenodd;"/>
+			<text x="45" y="78" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 13px;fill: rgb(5%,54%,47%); stroke:none;" transform="translate(0,156) scale(1,-1)">Uma queda de autonomia, sozinha, não determina o SOH.</text>
+		</g>
+	</g>
+</svg>

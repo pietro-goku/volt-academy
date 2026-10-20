@@ -38,6 +38,24 @@
           "refs": [
             0,
             9
+          ],
+          "visuals": [
+            {
+              "id": "f-energia",
+              "title": "Da energia ao movimento",
+              "caption": "A bateria fornece corrente contínua; o inversor controla a alimentação do motor. A redução transmite movimento às rodas.",
+              "prompt": "Qual componente transforma energia elétrica em movimento?",
+              "answer": "O motor elétrico. A bateria armazena energia e o inversor controla a alimentação do motor.",
+              "src": "assets/illustrations/f-energia.svg"
+            },
+            {
+              "id": "f-motor",
+              "title": "Motor elétrico visto em corte",
+              "caption": "O estator cria o campo magnético que interage com o rotor. O eixo entrega torque ao conjunto de transmissão.",
+              "prompt": "Qual parte gira: estator ou rotor?",
+              "answer": "O rotor gira; o estator permanece fixo. O desenho é conceitual.",
+              "src": "assets/illustrations/f-motor.svg"
+            }
           ]
         },
         {
@@ -65,6 +83,24 @@
           "refs": [
             0,
             2
+          ],
+          "visuals": [
+            {
+              "id": "f-auxiliar",
+              "title": "Duas baterias. Funções diferentes.",
+              "caption": "O conversor DC/DC alimenta a rede de menor tensão e recarrega a bateria auxiliar, conforme a arquitetura.",
+              "prompt": "Se a bateria de tração está carregada, a auxiliar está necessariamente saudável?",
+              "answer": "Não. São funções e condições distintas; a oficina deve avaliar a rede auxiliar conforme o manual.",
+              "src": "assets/illustrations/f-auxiliar.svg"
+            },
+            {
+              "id": "f-painel",
+              "title": "Painel apagado: observe antes de concluir",
+              "caption": "O estado das luzes, travas e painel ajuda a descrever a ocorrência. Não identifica sozinho a peça defeituosa.",
+              "prompt": "O que deve ser registrado antes de afirmar que a bateria de tração falhou?",
+              "answer": "Mensagens, funcionamento dos acessórios, carga indicada e histórico; a confirmação depende de testes específicos.",
+              "src": "assets/illustrations/f-painel.svg"
+            }
           ]
         },
         {
@@ -92,9 +128,29 @@
           "refs": [
             1,
             10
+          ],
+          "visuals": [
+            {
+              "id": "f-seguranca",
+              "title": "Reconhecer o risco faz parte do estudo",
+              "caption": "Componentes podem reter energia com o veículo desligado. A arquitetura e os procedimentos são específicos do fabricante.",
+              "prompt": "Desligar o carro comprova que o sistema de alta tensão está sem energia?",
+              "answer": "Não. Capacitação e procedimentos específicos são necessários; este desenho não ensina desenergização.",
+              "src": "assets/illustrations/f-seguranca.svg"
+            },
+            {
+              "id": "f-impacto",
+              "title": "Dano na região da bateria: qual o próximo passo?",
+              "caption": "Um amassado observado na região inferior deve ser avaliado por equipe especializada. Não abra o conjunto.",
+              "prompt": "Uma inspeção visual externa confirma a integridade interna da bateria?",
+              "answer": "Não. Ela registra indícios e orienta a avaliação especializada.",
+              "src": "assets/illustrations/f-impacto.svg"
+            }
           ]
         }
-      ]
+      ],
+      "pdfPages": 10,
+      "illustrationCount": 6
     },
     {
       "id": "diagnostico",
@@ -129,6 +185,24 @@
           "why": "Um histórico verificável orienta o teste e evita conclusões precipitadas.",
           "refs": [
             2
+          ],
+          "visuals": [
+            {
+              "id": "d-ready",
+              "title": "READY: descreva a condição de partida",
+              "caption": "Indicadores e mensagens variam por modelo. Consulte a sequência de partida no manual do veículo.",
+              "prompt": "Uma mensagem no painel comprova defeito no inversor?",
+              "answer": "Não. É uma observação que precisa de contexto e investigação.",
+              "src": "assets/illustrations/d-ready.svg"
+            },
+            {
+              "id": "d-historico",
+              "title": "Um relato que ajuda a oficina",
+              "caption": "Organize a sequência temporal, sem transformar hipótese em conclusão.",
+              "prompt": "Qual relato é mais útil: “inversor queimado” ou mensagem, horário e condições?",
+              "answer": "Mensagem, horário e condições são evidências observáveis. O componente precisa ser diagnosticado.",
+              "src": "assets/illustrations/d-historico.svg"
+            }
           ]
         },
         {
@@ -155,6 +229,24 @@
           "why": "O código orienta a investigação. A conclusão depende de testes específicos e interpretação técnica.",
           "refs": [
             4
+          ],
+          "visuals": [
+            {
+              "id": "d-scanner",
+              "title": "Scanner: registro antes da troca de peça",
+              "caption": "A tela usa um marcador fictício. Um DTC real deve ser interpretado com documentação específica e dados associados.",
+              "prompt": "Por que preservar o relatório antes de apagar códigos?",
+              "answer": "Para manter contexto, estado da falha e dados que podem ajudar a investigação.",
+              "src": "assets/illustrations/d-scanner.svg"
+            },
+            {
+              "id": "d-metodo",
+              "title": "O caminho entre um código e uma conclusão",
+              "caption": "O diagnóstico depende da relação entre registros, condição do veículo, documentação e testes adequados.",
+              "prompt": "Em qual etapa a troca de uma peça deve ser decidida?",
+              "answer": "Depois da investigação e confirmação conforme os testes específicos, não pelo código isolado.",
+              "src": "assets/illustrations/d-metodo.svg"
+            }
           ]
         },
         {
@@ -181,9 +273,29 @@
           "why": "Carga disponível e condição da bateria são conceitos distintos.",
           "refs": [
             2
+          ],
+          "visuals": [
+            {
+              "id": "d-comparacao",
+              "title": "Autonomia: compare viagens semelhantes",
+              "caption": "Temperatura, velocidade, percurso, pneus e climatização alteram o contexto. Os dados mostrados são fictícios.",
+              "prompt": "Viagem urbana e rodoviária permitem concluir perda de saúde da bateria?",
+              "answer": "Não isoladamente. Primeiro compare condições equivalentes e registros de consumo.",
+              "src": "assets/illustrations/d-comparacao.svg"
+            },
+            {
+              "id": "d-soc-soh",
+              "title": "SOC e SOH respondem perguntas diferentes",
+              "caption": "SOC indica carga disponível. SOH se refere à condição da bateria e depende do método de avaliação.",
+              "prompt": "Um SOC de 60% informa diretamente a saúde da bateria?",
+              "answer": "Não. SOC é estado de carga; a condição da bateria exige avaliação e critério próprios.",
+              "src": "assets/illustrations/d-soc-soh.svg"
+            }
           ]
         }
-      ]
+      ],
+      "pdfPages": 10,
+      "illustrationCount": 6
     },
     {
       "id": "recarga",
@@ -223,6 +335,24 @@
           "refs": [
             0,
             2
+          ],
+          "visuals": [
+            {
+              "id": "r-ac-dc",
+              "title": "Recarga AC e DC: onde ocorre a conversão?",
+              "caption": "Na AC, a conversão acontece no carregador de bordo. Na DC, ocorre na estação externa. Os caminhos são conceituais.",
+              "prompt": "Na recarga DC, a conversão de AC para DC ocorre no carregador de bordo?",
+              "answer": "Não. No esquema DC, a conversão acontece na estação externa.",
+              "src": "assets/illustrations/r-ac-dc.svg"
+            },
+            {
+              "id": "r-unidades",
+              "title": "Potência e energia: uma conta visual",
+              "caption": "7 kW durante 2 horas equivalem a 14 kWh em um exemplo idealizado, sem perdas nem variações de potência.",
+              "prompt": "Qual é a unidade de energia: kW ou kWh?",
+              "answer": "kWh. kW é potência. A energia do exemplo é 7 × 2 = 14 kWh antes de perdas.",
+              "src": "assets/illustrations/r-unidades.svg"
+            }
           ]
         },
         {
@@ -254,6 +384,24 @@
           "refs": [
             2,
             7
+          ],
+          "visuals": [
+            {
+              "id": "r-agendamento",
+              "title": "Conectado não significa recarregando",
+              "caption": "Agendamento e limite configurado podem explicar uma sessão que ainda não começou, sem confirmar defeito.",
+              "prompt": "Se a sessão está agendada para mais tarde, ficar conectado sem carregar confirma falha?",
+              "answer": "Não. Consulte horário, limite de carga, mensagens e orientações do manual.",
+              "src": "assets/illustrations/r-agendamento.svg"
+            },
+            {
+              "id": "r-registro",
+              "title": "Uma ficha visual da falha de recarga",
+              "caption": "Registrar em quais estações e tipos de recarga a ocorrência aparece ajuda a delimitar a investigação.",
+              "prompt": "Falhar em uma única estação identifica automaticamente uma peça defeituosa?",
+              "answer": "Não. O registro delimita o contexto; a causa precisa ser investigada.",
+              "src": "assets/illustrations/r-registro.svg"
+            }
           ]
         },
         {
@@ -285,9 +433,29 @@
           "refs": [
             3,
             8
+          ],
+          "visuals": [
+            {
+              "id": "r-termico",
+              "title": "A temperatura é uma questão de sistema",
+              "caption": "Bateria, eletrônica e motor podem ter gerenciamento térmico integrado conforme o projeto. O desenho é genérico.",
+              "prompt": "Todos os elétricos têm exatamente o circuito ilustrado?",
+              "answer": "Não. Os circuitos e fluidos variam e devem ser conferidos no manual específico.",
+              "src": "assets/illustrations/r-termico.svg"
+            },
+            {
+              "id": "r-alerta",
+              "title": "Alerta térmico: registre e siga a orientação",
+              "caption": "Alertas e limitação de potência exigem contexto. Fumaça, odor anormal ou calor intenso exigem interromper o uso e acionar ajuda.",
+              "prompt": "Qual informação ajuda a reproduzir uma queixa que só ocorre em viagens longas?",
+              "answer": "Temperatura ambiente, duração, condição de uso e texto exato do alerta.",
+              "src": "assets/illustrations/r-alerta.svg"
+            }
           ]
         }
-      ]
+      ],
+      "pdfPages": 10,
+      "illustrationCount": 6
     },
     {
       "id": "manutencao",
@@ -322,6 +490,24 @@
           "why": "Freios continuam sendo componentes de segurança e exigem inspeção conforme o plano.",
           "refs": [
             3
+          ],
+          "visuals": [
+            {
+              "id": "m-inspecao",
+              "title": "O elétrico continua precisando de inspeção",
+              "caption": "Pneus, rodas, freios, suspensão e filtros continuam no plano de manutenção. Fluidos e intervalos variam por projeto.",
+              "prompt": "A frenagem regenerativa elimina a inspeção dos freios?",
+              "answer": "Não. O sistema de freios continua precisando de avaliação conforme o plano do fabricante.",
+              "src": "assets/illustrations/m-inspecao.svg"
+            },
+            {
+              "id": "m-ficha",
+              "title": "Uma ficha que conta a história do veículo",
+              "caption": "Use registros datados para acompanhar serviços sem inventar intervalos universais.",
+              "prompt": "De onde deve vir a periodicidade de uma manutenção?",
+              "answer": "Do plano do fabricante para o ano, versão e condições de uso do veículo.",
+              "src": "assets/illustrations/m-ficha.svg"
+            }
           ]
         },
         {
@@ -349,6 +535,24 @@
           "refs": [
             5,
             6
+          ],
+          "visuals": [
+            {
+              "id": "m-oem",
+              "title": "Duas peças parecidas. Duas referências.",
+              "caption": "As peças e os códigos são fictícios. A imagem demonstra por que a aparência de um anúncio não garante aplicação.",
+              "prompt": "Uma foto parecida é suficiente para comprar a peça?",
+              "answer": "Não. Confirme código, aplicação ao veículo, condição e necessidade de programação.",
+              "src": "assets/illustrations/m-oem.svg"
+            },
+            {
+              "id": "m-validacao",
+              "title": "Antes do pagamento: confira a aplicação",
+              "caption": "Marca, modelo, ano, versão e referência devem ser conferidos. O chassi deve ser validado em canal confiável.",
+              "prompt": "Que informação adicional pode ser essencial ao comprar um módulo eletrônico?",
+              "answer": "Programação, pareamento e versão de software, além da aplicação e da referência.",
+              "src": "assets/illustrations/m-validacao.svg"
+            }
           ]
         },
         {
@@ -376,9 +580,29 @@
           "refs": [
             5,
             6
+          ],
+          "visuals": [
+            {
+              "id": "m-canais",
+              "title": "Uma compra começa com informação",
+              "caption": "Use canais identificados e confirme preço, estoque e aplicação. A plataforma não mantém estoque de peças.",
+              "prompt": "O diretório do site garante estoque ou preço?",
+              "answer": "Não. Ele reúne canais de consulta; as condições devem ser confirmadas diretamente.",
+              "src": "assets/illustrations/m-canais.svg"
+            },
+            {
+              "id": "m-custo",
+              "title": "Compare o custo completo da reposição",
+              "caption": "O menor preço anunciado pode não ser o menor custo final. Inclua tudo que se aplica ao orçamento real.",
+              "prompt": "Por que um módulo mais barato no anúncio pode terminar mais caro?",
+              "answer": "Frete, tributos, instalação, programação e condições de devolução alteram a comparação.",
+              "src": "assets/illustrations/m-custo.svg"
+            }
           ]
         }
-      ]
+      ],
+      "pdfPages": 10,
+      "illustrationCount": 6
     }
   ],
   "defects": [
@@ -399,7 +623,15 @@
       ],
       "next": "A oficina deve avaliar a rede auxiliar e as autorizações de partida antes de condenar componentes de tração.",
       "course": 1,
-      "lesson": 0
+      "lesson": 0,
+      "visual": {
+        "id": "d-ready",
+        "title": "READY: descreva a condição de partida",
+        "caption": "Indicadores e mensagens variam por modelo. Consulte a sequência de partida no manual do veículo.",
+        "prompt": "Uma mensagem no painel comprova defeito no inversor?",
+        "answer": "Não. É uma observação que precisa de contexto e investigação.",
+        "src": "assets/illustrations/d-ready.svg"
+      }
     },
     {
       "title": "Não inicia a recarga",
@@ -418,7 +650,15 @@
       ],
       "next": "Se a configuração estiver correta e a ocorrência persistir, encaminhe os registros ao suporte da estação e à oficina.",
       "course": 2,
-      "lesson": 1
+      "lesson": 1,
+      "visual": {
+        "id": "r-registro",
+        "title": "Uma ficha visual da falha de recarga",
+        "caption": "Registrar em quais estações e tipos de recarga a ocorrência aparece ajuda a delimitar a investigação.",
+        "prompt": "Falhar em uma única estação identifica automaticamente uma peça defeituosa?",
+        "answer": "Não. O registro delimita o contexto; a causa precisa ser investigada.",
+        "src": "assets/illustrations/r-registro.svg"
+      }
     },
     {
       "title": "Autonomia abaixo do esperado",
@@ -437,7 +677,15 @@
       ],
       "next": "Perda persistente pede avaliação técnica; o painel sozinho não mede a saúde da bateria.",
       "course": 1,
-      "lesson": 2
+      "lesson": 2,
+      "visual": {
+        "id": "d-comparacao",
+        "title": "Autonomia: compare viagens semelhantes",
+        "caption": "Temperatura, velocidade, percurso, pneus e climatização alteram o contexto. Os dados mostrados são fictícios.",
+        "prompt": "Viagem urbana e rodoviária permitem concluir perda de saúde da bateria?",
+        "answer": "Não isoladamente. Primeiro compare condições equivalentes e registros de consumo.",
+        "src": "assets/illustrations/d-comparacao.svg"
+      }
     },
     {
       "title": "Potência limitada / alerta térmico",
@@ -456,7 +704,15 @@
       ],
       "next": "Se houver fumaça, odor anormal ou aquecimento intenso, interrompa o uso, afaste-se e acione assistência ou emergência.",
       "course": 2,
-      "lesson": 2
+      "lesson": 2,
+      "visual": {
+        "id": "r-alerta",
+        "title": "Alerta térmico: registre e siga a orientação",
+        "caption": "Alertas e limitação de potência exigem contexto. Fumaça, odor anormal ou calor intenso exigem interromper o uso e acionar ajuda.",
+        "prompt": "Qual informação ajuda a reproduzir uma queixa que só ocorre em viagens longas?",
+        "answer": "Temperatura ambiente, duração, condição de uso e texto exato do alerta.",
+        "src": "assets/illustrations/r-alerta.svg"
+      }
     },
     {
       "title": "Ruídos ou vibração ao rodar",
@@ -475,7 +731,15 @@
       ],
       "next": "Solicite inspeção de pneus, rodas e componentes mecânicos; ruído não comprova defeito no motor.",
       "course": 3,
-      "lesson": 0
+      "lesson": 0,
+      "visual": {
+        "id": "m-inspecao",
+        "title": "O elétrico continua precisando de inspeção",
+        "caption": "Pneus, rodas, freios, suspensão e filtros continuam no plano de manutenção. Fluidos e intervalos variam por projeto.",
+        "prompt": "A frenagem regenerativa elimina a inspeção dos freios?",
+        "answer": "Não. O sistema de freios continua precisando de avaliação conforme o plano do fabricante.",
+        "src": "assets/illustrations/m-inspecao.svg"
+      }
     },
     {
       "title": "Luz de falha no painel",
@@ -494,7 +758,15 @@
       ],
       "next": "Uma oficina com scanner compatível interpreta códigos e dados seguindo o manual. O código isolado não condena uma peça.",
       "course": 1,
-      "lesson": 1
+      "lesson": 1,
+      "visual": {
+        "id": "d-scanner",
+        "title": "Scanner: registro antes da troca de peça",
+        "caption": "A tela usa um marcador fictício. Um DTC real deve ser interpretado com documentação específica e dados associados.",
+        "prompt": "Por que preservar o relatório antes de apagar códigos?",
+        "answer": "Para manter contexto, estado da falha e dados que podem ajudar a investigação.",
+        "src": "assets/illustrations/d-scanner.svg"
+      }
     }
   ],
   "providers": [
@@ -621,5 +893,6 @@
     "credit": "AEA · 1ª edição, 2023 · Material enviado pelo usuário",
     "text": "Leitura complementar para arquitetura dos veículos, baterias, recarga, autonomia e segurança. As aulas revisam a terminologia para português do Brasil e distinguem potência (kW) de energia (kWh). Dados de mercado e infraestrutura de 2023 não são apresentados como atuais.",
     "pages": "Tópicos consultados: arquitetura, pp. 13–16; conectores, pp. 17–18; baterias, pp. 19–26; autonomia, pp. 29–30; segurança e manutenção, pp. 31–44."
-  }
+  },
+  "visualEdition": "2026-10-20"
 }

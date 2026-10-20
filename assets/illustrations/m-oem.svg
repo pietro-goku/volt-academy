@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg width="800" height="450" preserveAspectRatio="xMinYMin meet" viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Duas peças parecidas. Duas referências.</title>
+	<desc>Esquema didático autoral Volt Academy; arquiteturas variam por modelo.</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="800" height="450"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-450)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="800" height="450" rx="10" ry="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(95%,96%,98%); fill-rule: evenodd;"/>
+			<text x="30" y="423" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 10px;fill: rgb(5%,54%,47%); stroke:none;" transform="translate(0,846) scale(1,-1)">VOLT ACADEMY / VISUAL DE ESTUDO</text>
+			<text x="30" y="391" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 23px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,782) scale(1,-1)">Duas peças parecidas. Duas referências.</text>
+			<path d="M 30,369 L 770,369 Z" style="stroke: rgb(85%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="30" y="22" style="font-family: Arial, sans-serif; font-size: 9px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,44) scale(1,-1)">ESQUEMA DIDÁTICO • ARQUITETURAS E PROCEDIMENTOS VARIAM POR MODELO</text>
+			<rect x="45" y="126" width="335" height="213" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<circle cx="134" cy="269" r="33" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 2; fill: rgb(84%,89%,92%); fill-rule: evenodd;"/>
+			<rect x="159" y="249" width="89" height="40" rx="5" ry="5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,84%); fill-rule: evenodd;"/>
+			<rect x="112" y="231" width="125" height="19" rx="4" ry="4" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(57%,66%,70%); fill-rule: evenodd;"/>
+			<text x="65" y="188" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 23px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,376) scale(1,-1)">ABC-101</text>
+			<text x="65" y="157" style="font-family: Arial, sans-serif; font-size: 10px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,314) scale(1,-1)">CÓDIGO FICTÍCIO / EXEMPLO</text>
+			<rect x="420" y="126" width="335" height="213" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<circle cx="509" cy="269" r="33" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 2; fill: rgb(84%,89%,92%); fill-rule: evenodd;"/>
+			<rect x="534" y="249" width="89" height="40" rx="5" ry="5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,84%); fill-rule: evenodd;"/>
+			<rect x="487" y="231" width="125" height="19" rx="4" ry="4" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(57%,66%,70%); fill-rule: evenodd;"/>
+			<text x="440" y="188" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 23px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,376) scale(1,-1)">ABC-102</text>
+			<text x="440" y="157" style="font-family: Arial, sans-serif; font-size: 10px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,314) scale(1,-1)">CÓDIGO FICTÍCIO / EXEMPLO</text>
+			<rect x="30" y="48" width="740" height="54" rx="9" ry="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,94%,92%); fill-rule: evenodd;"/>
+			<text x="45" y="78" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 13px;fill: rgb(5%,54%,47%); stroke:none;" transform="translate(0,156) scale(1,-1)">Aparência semelhante não comprova compatibilidade.</text>
+			<text x="45" y="59" style="font-family: Arial, sans-serif; font-size: 10px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,118) scale(1,-1)">Valide aplicação e código OEM com o fornecedor pelo veículo correto.</text>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg width="800" height="450" preserveAspectRatio="xMinYMin meet" viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Da energia ao movimento</title>
+	<desc>Esquema didático autoral Volt Academy; arquiteturas variam por modelo.</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="800" height="450"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-450)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="800" height="450" rx="10" ry="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(95%,96%,98%); fill-rule: evenodd;"/>
+			<text x="30" y="423" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 10px;fill: rgb(5%,54%,47%); stroke:none;" transform="translate(0,846) scale(1,-1)">VOLT ACADEMY / VISUAL DE ESTUDO</text>
+			<text x="30" y="391" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 23px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,782) scale(1,-1)">Da energia ao movimento</text>
+			<path d="M 30,369 L 770,369 Z" style="stroke: rgb(85%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="30" y="22" style="font-family: Arial, sans-serif; font-size: 9px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,44) scale(1,-1)">ESQUEMA DIDÁTICO • ARQUITETURAS E PROCEDIMENTOS VARIAM POR MODELO</text>
+			<polygon points="265 268, 307 316, 379 330.4, 451 292, 499 277.6, 511 234.4, 265 234.4" style="stroke: rgb(50%,58%,64%); stroke-linecap: butt; stroke-width: 2; fill: rgb(90%,93%,95%); fill-rule: evenodd;"/>
+			<polygon points="320.2 307.6, 375.4 318.4, 421 290.8, 305.8 290.8" style="stroke: none; stroke-linecap: butt; stroke-width: 2; fill: rgb(74%,85%,90%); fill-rule: evenodd;"/>
+			<circle cx="315.4" cy="234.4" r="24.0" style="stroke: none; stroke-linecap: butt; stroke-width: 2; fill: rgb(8%,16%,25%); fill-rule: evenodd;"/>
+			<circle cx="315.4" cy="234.4" r="10.799999999999999" style="stroke: none; stroke-linecap: butt; stroke-width: 2; fill: rgb(71%,78%,82%); fill-rule: evenodd;"/>
+			<circle cx="464.2" cy="234.4" r="24.0" style="stroke: none; stroke-linecap: butt; stroke-width: 2; fill: rgb(8%,16%,25%); fill-rule: evenodd;"/>
+			<circle cx="464.2" cy="234.4" r="10.799999999999999" style="stroke: none; stroke-linecap: butt; stroke-width: 2; fill: rgb(71%,78%,82%); fill-rule: evenodd;"/>
+			<rect x="346.6" y="244.0" width="82.80000000000001" height="13.199999999999989" rx="3" ry="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(5%,54%,47%); fill-rule: evenodd;"/>
+			<rect x="30" y="124" width="135" height="67" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="30" y="124" width="4" height="67" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(5%,54%,47%); fill-rule: evenodd;"/>
+			<text x="44" y="163" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,326) scale(1,-1)">Bateria</text>
+			<text x="44" y="140" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,280) scale(1,-1)">DC / energia</text>
+			<rect x="180" y="124" width="135" height="67" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="180" y="124" width="4" height="67" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(92%,55%,23%); fill-rule: evenodd;"/>
+			<text x="194" y="163" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,326) scale(1,-1)">Inversor</text>
+			<text x="194" y="140" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,280) scale(1,-1)">DC → AC</text>
+			<rect x="330" y="124" width="135" height="67" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="330" y="124" width="4" height="67" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,53%,72%); fill-rule: evenodd;"/>
+			<text x="344" y="163" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,326) scale(1,-1)">Motor</text>
+			<text x="344" y="140" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,280) scale(1,-1)">Torque</text>
+			<rect x="480" y="124" width="135" height="67" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="480" y="124" width="4" height="67" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,66%,16%); fill-rule: evenodd;"/>
+			<text x="494" y="163" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,326) scale(1,-1)">Redução</text>
+			<text x="494" y="140" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,280) scale(1,-1)">Transmissão</text>
+			<rect x="630" y="124" width="135" height="67" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="630" y="124" width="4" height="67" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,16%,25%); fill-rule: evenodd;"/>
+			<text x="644" y="163" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,326) scale(1,-1)">Rodas</text>
+			<text x="644" y="140" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,280) scale(1,-1)">Movimento</text>
+			<path d="M 168,158 L 178,158 Z" style="stroke: rgb(5%,54%,47%); stroke-linecap: butt; stroke-width: 3;"/>
+			<polygon points="178 158, 168.9955 153.6503, 168.9955 162.3497" style="stroke: none; stroke-linecap: butt; stroke-width: 2; fill: rgb(5%,54%,47%); fill-rule: evenodd;"/>
+			<path d="M 318,158 L 328,158 Z" style="stroke: rgb(5%,54%,47%); stroke-linecap: butt; stroke-width: 3;"/>
+			<polygon points="328 158, 318.9955 153.6503, 318.9955 162.3497" style="stroke: none; stroke-linecap: butt; stroke-width: 2; fill: rgb(5%,54%,47%); fill-rule: evenodd;"/>
+			<path d="M 468,158 L 478,158 Z" style="stroke: rgb(5%,54%,47%); stroke-linecap: butt; stroke-width: 3;"/>
+			<polygon points="478 158, 468.9955 153.6503, 468.9955 162.3497" style="stroke: none; stroke-linecap: butt; stroke-width: 2; fill: rgb(5%,54%,47%); fill-rule: evenodd;"/>
+			<path d="M 618,158 L 628,158 Z" style="stroke: rgb(5%,54%,47%); stroke-linecap: butt; stroke-width: 3;"/>
+			<polygon points="628 158, 618.9955 153.6503, 618.9955 162.3497" style="stroke: none; stroke-linecap: butt; stroke-width: 2; fill: rgb(5%,54%,47%); fill-rule: evenodd;"/>
+			<rect x="30" y="48" width="740" height="54" rx="9" ry="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,94%,92%); fill-rule: evenodd;"/>
+			<text x="45" y="78" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 13px;fill: rgb(5%,54%,47%); stroke:none;" transform="translate(0,156) scale(1,-1)">Função primeiro. Nome da peça depois.</text>
+			<text x="45" y="59" style="font-family: Arial, sans-serif; font-size: 10px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,118) scale(1,-1)">Componentes podem estar integrados na mesma carcaça.</text>
+		</g>
+	</g>
+</svg>

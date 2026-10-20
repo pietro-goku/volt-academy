@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg width="800" height="450" preserveAspectRatio="xMinYMin meet" viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Uma ficha que conta a história do veículo</title>
+	<desc>Esquema didático autoral Volt Academy; arquiteturas variam por modelo.</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="800" height="450"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-450)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="800" height="450" rx="10" ry="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(95%,96%,98%); fill-rule: evenodd;"/>
+			<text x="30" y="423" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 10px;fill: rgb(5%,54%,47%); stroke:none;" transform="translate(0,846) scale(1,-1)">VOLT ACADEMY / VISUAL DE ESTUDO</text>
+			<text x="30" y="391" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 23px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,782) scale(1,-1)">Uma ficha que conta a história do veículo</text>
+			<path d="M 30,369 L 770,369 Z" style="stroke: rgb(85%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="30" y="22" style="font-family: Arial, sans-serif; font-size: 9px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,44) scale(1,-1)">ESQUEMA DIDÁTICO • ARQUITETURAS E PROCEDIMENTOS VARIAM POR MODELO</text>
+			<rect x="45" y="120" width="710" height="222" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="64" y="305" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 12px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,610) scale(1,-1)">DATA</text>
+			<text x="198" y="305" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 12px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,610) scale(1,-1)">KM</text>
+			<text x="306" y="305" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 12px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,610) scale(1,-1)">ITEM / SERVIÇO</text>
+			<text x="575" y="305" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 12px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,610) scale(1,-1)">COMPROVANTE</text>
+			<path d="M 62,286 L 738,286 Z" style="stroke: rgb(84%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 62,235 L 738,235 Z" style="stroke: rgb(84%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 62,184 L 738,184 Z" style="stroke: rgb(84%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 62,135 L 738,135 Z" style="stroke: rgb(84%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="65" y="253" style="font-family: Arial, sans-serif; font-size: 12px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,506) scale(1,-1)">__/__/____</text>
+			<text x="200" y="253" style="font-family: Arial, sans-serif; font-size: 12px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,506) scale(1,-1)">______</text>
+			<text x="306" y="253" style="font-family: Arial, sans-serif; font-size: 12px;fill: rgb(5%,54%,47%); stroke:none;" transform="translate(0,506) scale(1,-1)">Especificação do manual</text>
+			<text x="575" y="253" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,506) scale(1,-1)">NF / relatório</text>
+			<rect x="30" y="48" width="740" height="54" rx="9" ry="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,94%,92%); fill-rule: evenodd;"/>
+			<text x="45" y="78" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 13px;fill: rgb(5%,54%,47%); stroke:none;" transform="translate(0,156) scale(1,-1)">Híbridos: considere também o plano do motor a combustão.</text>
+		</g>
+	</g>
+</svg>

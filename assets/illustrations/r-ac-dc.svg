@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg width="800" height="450" preserveAspectRatio="xMinYMin meet" viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Recarga AC e DC: onde ocorre a conversão?</title>
+	<desc>Esquema didático autoral Volt Academy; arquiteturas variam por modelo.</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="800" height="450"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-450)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="800" height="450" rx="10" ry="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(95%,96%,98%); fill-rule: evenodd;"/>
+			<text x="30" y="423" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 10px;fill: rgb(5%,54%,47%); stroke:none;" transform="translate(0,846) scale(1,-1)">VOLT ACADEMY / VISUAL DE ESTUDO</text>
+			<text x="30" y="391" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 23px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,782) scale(1,-1)">Recarga AC e DC: onde ocorre a conversão?</text>
+			<path d="M 30,369 L 770,369 Z" style="stroke: rgb(85%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="30" y="22" style="font-family: Arial, sans-serif; font-size: 9px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,44) scale(1,-1)">ESQUEMA DIDÁTICO • ARQUITETURAS E PROCEDIMENTOS VARIAM POR MODELO</text>
+			<text x="35" y="323" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 13px;fill: rgb(14%,53%,72%); stroke:none;" transform="translate(0,646) scale(1,-1)">RECARGA AC</text>
+			<rect x="40" y="241" width="193" height="61" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="40" y="241" width="4" height="61" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,53%,72%); fill-rule: evenodd;"/>
+			<text x="54" y="274" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,548) scale(1,-1)">Rede / estação AC</text>
+			<rect x="302" y="241" width="196" height="61" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="302" y="241" width="4" height="61" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(92%,55%,23%); fill-rule: evenodd;"/>
+			<text x="316" y="274" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,548) scale(1,-1)">Carregador de bordo</text>
+			<text x="316" y="251" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,502) scale(1,-1)">AC → DC</text>
+			<rect x="568" y="241" width="190" height="61" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="568" y="241" width="4" height="61" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(5%,54%,47%); fill-rule: evenodd;"/>
+			<text x="582" y="274" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,548) scale(1,-1)">Bateria de tração</text>
+			<text x="582" y="251" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,502) scale(1,-1)">DC</text>
+			<path d="M 241,272 L 294,272 Z" style="stroke: rgb(14%,53%,72%); stroke-linecap: butt; stroke-width: 3;"/>
+			<polygon points="294 272, 284.9955 267.6503, 284.9955 276.3497" style="stroke: none; stroke-linecap: butt; stroke-width: 2; fill: rgb(14%,53%,72%); fill-rule: evenodd;"/>
+			<path d="M 507,272 L 558,272 Z" style="stroke: rgb(92%,55%,23%); stroke-linecap: butt; stroke-width: 3;"/>
+			<polygon points="558 272, 548.9955 267.6503, 548.9955 276.3497" style="stroke: none; stroke-linecap: butt; stroke-width: 2; fill: rgb(92%,55%,23%); fill-rule: evenodd;"/>
+			<text x="35" y="197" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 13px;fill: rgb(5%,54%,47%); stroke:none;" transform="translate(0,394) scale(1,-1)">RECARGA DC</text>
+			<rect x="40" y="118" width="280" height="60" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="40" y="118" width="4" height="60" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(92%,55%,23%); fill-rule: evenodd;"/>
+			<text x="54" y="150" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,300) scale(1,-1)">Estação externa: AC → DC</text>
+			<rect x="564" y="118" width="193" height="60" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="564" y="118" width="4" height="60" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(5%,54%,47%); fill-rule: evenodd;"/>
+			<text x="578" y="150" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,300) scale(1,-1)">Bateria de tração</text>
+			<text x="578" y="127" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,254) scale(1,-1)">DC</text>
+			<path d="M 330,148 L 554,148 Z" style="stroke: rgb(92%,55%,23%); stroke-linecap: butt; stroke-width: 3;"/>
+			<polygon points="554 148, 544.9955 143.6503, 544.9955 152.3497" style="stroke: none; stroke-linecap: butt; stroke-width: 2; fill: rgb(92%,55%,23%); fill-rule: evenodd;"/>
+			<text x="364" y="163" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,326) scale(1,-1)">DC entregue ao veículo</text>
+			<rect x="30" y="48" width="740" height="54" rx="9" ry="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,94%,92%); fill-rule: evenodd;"/>
+			<text x="45" y="78" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 13px;fill: rgb(5%,54%,47%); stroke:none;" transform="translate(0,156) scale(1,-1)">Conector, potência e limites devem ser compatíveis com o veículo.</text>
+		</g>
+	</g>
+</svg>

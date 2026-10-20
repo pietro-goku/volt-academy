@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg width="800" height="450" preserveAspectRatio="xMinYMin meet" viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>READY: descreva a condição de partida</title>
+	<desc>Esquema didático autoral Volt Academy; arquiteturas variam por modelo.</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="800" height="450"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-450)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="800" height="450" rx="10" ry="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(95%,96%,98%); fill-rule: evenodd;"/>
+			<text x="30" y="423" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 10px;fill: rgb(5%,54%,47%); stroke:none;" transform="translate(0,846) scale(1,-1)">VOLT ACADEMY / VISUAL DE ESTUDO</text>
+			<text x="30" y="391" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 23px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,782) scale(1,-1)">READY: descreva a condição de partida</text>
+			<path d="M 30,369 L 770,369 Z" style="stroke: rgb(85%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="30" y="22" style="font-family: Arial, sans-serif; font-size: 9px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,44) scale(1,-1)">ESQUEMA DIDÁTICO • ARQUITETURAS E PROCEDIMENTOS VARIAM POR MODELO</text>
+			<rect x="40" y="140" width="330" height="190" rx="16" ry="16" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,16%,25%); fill-rule: evenodd;"/>
+			<rect x="55" y="155" width="300" height="160" rx="10" ry="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(12%,23%,32%); fill-rule: evenodd;"/>
+			<text x="140.882568359375" y="275" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 25px;fill: rgb(96%,74%,26%); stroke:none;" transform="translate(0,550) scale(1,-1)">READY —</text>
+			<text x="65" y="230" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 15px;fill: rgb(83%,90%,93%); stroke:none;" transform="translate(0,460) scale(1,-1)">60%  CARGA</text>
+			<text x="65" y="200" style="font-family: Arial, sans-serif; font-size: 10px;fill: rgb(56%,71%,78%); stroke:none;" transform="translate(0,400) scale(1,-1)">MENSAGEM DO VEÍCULO</text>
+			<path d="M 64,164 L 346,164 Z" style="stroke: rgb(32%,43%,50%); stroke-linecap: butt; stroke-width: 1;"/>
+			<rect x="405" y="255" width="350" height="80" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="405" y="255" width="4" height="80" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,53%,72%); fill-rule: evenodd;"/>
+			<text x="419" y="307" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,614) scale(1,-1)">Registre a mensagem exata</text>
+			<text x="419" y="284" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,568) scale(1,-1)">Foto do painel, carga e data.</text>
+			<rect x="405" y="134" width="350" height="105" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="405" y="134" width="4" height="105" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(5%,54%,47%); fill-rule: evenodd;"/>
+			<text x="419" y="211" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,422) scale(1,-1)">Confira o contexto</text>
+			<text x="419" y="188" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,376) scale(1,-1)">Último uso, seletor e cabo.</text>
+			<text x="419" y="169" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,338) scale(1,-1)">Consulte a sequência no manual.</text>
+			<rect x="30" y="48" width="740" height="54" rx="9" ry="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,94%,92%); fill-rule: evenodd;"/>
+			<text x="45" y="78" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 13px;fill: rgb(5%,54%,47%); stroke:none;" transform="translate(0,156) scale(1,-1)">Não entre em READY? Preserve o relato antes de procurar uma peça.</text>
+		</g>
+	</g>
+</svg>

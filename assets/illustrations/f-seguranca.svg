@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg width="800" height="450" preserveAspectRatio="xMinYMin meet" viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Reconhecer o risco faz parte do estudo</title>
+	<desc>Esquema didático autoral Volt Academy; arquiteturas variam por modelo.</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="800" height="450"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-450)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="800" height="450" rx="10" ry="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(95%,96%,98%); fill-rule: evenodd;"/>
+			<text x="30" y="423" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 10px;fill: rgb(5%,54%,47%); stroke:none;" transform="translate(0,846) scale(1,-1)">VOLT ACADEMY / VISUAL DE ESTUDO</text>
+			<text x="30" y="391" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 23px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,782) scale(1,-1)">Reconhecer o risco faz parte do estudo</text>
+			<path d="M 30,369 L 770,369 Z" style="stroke: rgb(85%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="30" y="22" style="font-family: Arial, sans-serif; font-size: 9px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,44) scale(1,-1)">ESQUEMA DIDÁTICO • ARQUITETURAS E PROCEDIMENTOS VARIAM POR MODELO</text>
+			<polygon points="65 201.5, 122.75 267.5, 221.75 287.3, 320.75 234.5, 386.75 214.7, 403.25 155.3, 65 155.3" style="stroke: rgb(50%,58%,64%); stroke-linecap: butt; stroke-width: 2; fill: rgb(90%,93%,95%); fill-rule: evenodd;"/>
+			<polygon points="140.9 255.95, 216.8 270.8, 279.5 232.85, 121.1 232.85" style="stroke: none; stroke-linecap: butt; stroke-width: 2; fill: rgb(74%,85%,90%); fill-rule: evenodd;"/>
+			<circle cx="134.3" cy="155.3" r="33.0" style="stroke: none; stroke-linecap: butt; stroke-width: 2; fill: rgb(8%,16%,25%); fill-rule: evenodd;"/>
+			<circle cx="134.3" cy="155.3" r="14.85" style="stroke: none; stroke-linecap: butt; stroke-width: 2; fill: rgb(71%,78%,82%); fill-rule: evenodd;"/>
+			<circle cx="338.9" cy="155.3" r="33.0" style="stroke: none; stroke-linecap: butt; stroke-width: 2; fill: rgb(8%,16%,25%); fill-rule: evenodd;"/>
+			<circle cx="338.9" cy="155.3" r="14.85" style="stroke: none; stroke-linecap: butt; stroke-width: 2; fill: rgb(71%,78%,82%); fill-rule: evenodd;"/>
+			<rect x="177.2" y="168.49999999999997" width="113.84999999999997" height="18.150000000000006" rx="3" ry="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(5%,54%,47%); fill-rule: evenodd;"/>
+			<path d="M 185,172 L 400,172 Z" style="stroke: rgb(92%,55%,23%); stroke-linecap: butt; stroke-width: 8;"/>
+			<rect x="460" y="250" width="291" height="89" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="460" y="250" width="4" height="89" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(92%,55%,23%); fill-rule: evenodd;"/>
+			<text x="474" y="311" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,622) scale(1,-1)">Identificação laranja</text>
+			<text x="474" y="288" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,576) scale(1,-1)">Geralmente associada</text>
+			<text x="474" y="269" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,538) scale(1,-1)">à alta tensão.</text>
+			<rect x="460" y="133" width="291" height="99" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="460" y="133" width="4" height="99" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(74%,32%,28%); fill-rule: evenodd;"/>
+			<text x="474" y="204" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,408) scale(1,-1)">Carro desligado</text>
+			<text x="474" y="181" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,362) scale(1,-1)">Não significa ausência</text>
+			<text x="474" y="162" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,324) scale(1,-1)">de energia armazenada.</text>
+			<path d="M 451,276 L 350,184 Z" style="stroke: rgb(92%,55%,23%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="350 184, 353.7277 193.2792, 359.5859 186.848" style="stroke: none; stroke-linecap: butt; stroke-width: 2; fill: rgb(92%,55%,23%); fill-rule: evenodd;"/>
+			<rect x="30" y="48" width="740" height="54" rx="9" ry="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,94%,92%); fill-rule: evenodd;"/>
+			<text x="45" y="78" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 13px;fill: rgb(5%,54%,47%); stroke:none;" transform="translate(0,156) scale(1,-1)">Reconheça os sistemas. Intervenção exige capacitação específica.</text>
+			<text x="45" y="59" style="font-family: Arial, sans-serif; font-size: 10px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,118) scale(1,-1)">Não abra baterias nem desconecte cabos como tentativa de diagnóstico.</text>
+		</g>
+	</g>
+</svg>

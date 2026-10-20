@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg width="800" height="450" preserveAspectRatio="xMinYMin meet" viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Compare o custo completo da reposição</title>
+	<desc>Esquema didático autoral Volt Academy; arquiteturas variam por modelo.</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="800" height="450"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-450)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="800" height="450" rx="10" ry="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(95%,96%,98%); fill-rule: evenodd;"/>
+			<text x="30" y="423" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 10px;fill: rgb(5%,54%,47%); stroke:none;" transform="translate(0,846) scale(1,-1)">VOLT ACADEMY / VISUAL DE ESTUDO</text>
+			<text x="30" y="391" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 23px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,782) scale(1,-1)">Compare o custo completo da reposição</text>
+			<path d="M 30,369 L 770,369 Z" style="stroke: rgb(85%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="30" y="22" style="font-family: Arial, sans-serif; font-size: 9px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,44) scale(1,-1)">ESQUEMA DIDÁTICO • ARQUITETURAS E PROCEDIMENTOS VARIAM POR MODELO</text>
+			<rect x="40" y="185" width="133" height="135" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="40" y="185" width="4" height="135" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,53%,72%); fill-rule: evenodd;"/>
+			<text x="54" y="292" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,584) scale(1,-1)">Peça</text>
+			<text x="54" y="269" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,538) scale(1,-1)">Condição</text>
+			<text x="54" y="250" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,500) scale(1,-1)">e aplicação</text>
+			<rect x="185" y="185" width="133" height="135" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="185" y="185" width="4" height="135" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(5%,54%,47%); fill-rule: evenodd;"/>
+			<text x="199" y="292" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,584) scale(1,-1)">Frete</text>
+			<text x="199" y="269" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,538) scale(1,-1)">Prazo</text>
+			<text x="199" y="250" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,500) scale(1,-1)">e entrega</text>
+			<rect x="330" y="185" width="133" height="135" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="330" y="185" width="4" height="135" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,66%,16%); fill-rule: evenodd;"/>
+			<text x="344" y="292" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,584) scale(1,-1)">Tributos</text>
+			<text x="344" y="269" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,538) scale(1,-1)">Quando</text>
+			<text x="344" y="250" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,500) scale(1,-1)">aplicáveis</text>
+			<rect x="475" y="185" width="133" height="135" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="475" y="185" width="4" height="135" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(92%,55%,23%); fill-rule: evenodd;"/>
+			<text x="489" y="292" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,584) scale(1,-1)">Serviço</text>
+			<text x="489" y="269" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,538) scale(1,-1)">Instalação</text>
+			<text x="489" y="250" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,500) scale(1,-1)">e mão de obra</text>
+			<rect x="620" y="185" width="133" height="135" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="620" y="185" width="4" height="135" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,16%,25%); fill-rule: evenodd;"/>
+			<text x="634" y="292" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,584) scale(1,-1)">Software</text>
+			<text x="634" y="269" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,538) scale(1,-1)">Programação</text>
+			<text x="634" y="250" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,500) scale(1,-1)">se necessária</text>
+			<path d="M 60,154 L 735,154 Z" style="stroke: rgb(74%,80%,84%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="164.16357421875" y="122" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(5%,54%,47%); stroke:none;" transform="translate(0,244) scale(1,-1)">TOTAL DO ORÇAMENTO = ITENS APLICÁVEIS CONFIRMADOS</text>
+			<rect x="30" y="48" width="740" height="54" rx="9" ry="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,94%,92%); fill-rule: evenodd;"/>
+			<text x="45" y="78" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 13px;fill: rgb(5%,54%,47%); stroke:none;" transform="translate(0,156) scale(1,-1)">Compare a mesma referência, condição, garantia e escopo de serviço.</text>
+		</g>
+	</g>
+</svg>

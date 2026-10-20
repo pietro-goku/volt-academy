@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg width="800" height="450" preserveAspectRatio="xMinYMin meet" viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>A temperatura é uma questão de sistema</title>
+	<desc>Esquema didático autoral Volt Academy; arquiteturas variam por modelo.</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="800" height="450"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-450)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="800" height="450" rx="10" ry="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(95%,96%,98%); fill-rule: evenodd;"/>
+			<text x="30" y="423" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 10px;fill: rgb(5%,54%,47%); stroke:none;" transform="translate(0,846) scale(1,-1)">VOLT ACADEMY / VISUAL DE ESTUDO</text>
+			<text x="30" y="391" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 23px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,782) scale(1,-1)">A temperatura é uma questão de sistema</text>
+			<path d="M 30,369 L 770,369 Z" style="stroke: rgb(85%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="30" y="22" style="font-family: Arial, sans-serif; font-size: 9px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,44) scale(1,-1)">ESQUEMA DIDÁTICO • ARQUITETURAS E PROCEDIMENTOS VARIAM POR MODELO</text>
+			<rect x="60" y="230" width="175" height="92" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="60" y="230" width="4" height="92" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(5%,54%,47%); fill-rule: evenodd;"/>
+			<text x="74" y="294" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,588) scale(1,-1)">Bateria</text>
+			<text x="74" y="271" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,542) scale(1,-1)">Temperatura</text>
+			<text x="74" y="252" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,504) scale(1,-1)">monitorada</text>
+			<rect x="310" y="230" width="175" height="92" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="310" y="230" width="4" height="92" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,53%,72%); fill-rule: evenodd;"/>
+			<text x="324" y="294" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,588) scale(1,-1)">Tração</text>
+			<text x="324" y="271" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,542) scale(1,-1)">Motor e eletrônica</text>
+			<rect x="560" y="230" width="175" height="92" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="560" y="230" width="4" height="92" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,66%,16%); fill-rule: evenodd;"/>
+			<text x="574" y="294" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,588) scale(1,-1)">Troca térmica</text>
+			<text x="574" y="271" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,542) scale(1,-1)">Circuito do projeto</text>
+			<path d="M 240,292 L 301,292 Z" style="stroke: rgb(92%,55%,23%); stroke-linecap: butt; stroke-width: 3;"/>
+			<polygon points="301 292, 291.9955 287.6503, 291.9955 296.3497" style="stroke: none; stroke-linecap: butt; stroke-width: 2; fill: rgb(92%,55%,23%); fill-rule: evenodd;"/>
+			<path d="M 490,292 L 551,292 Z" style="stroke: rgb(92%,55%,23%); stroke-linecap: butt; stroke-width: 3;"/>
+			<polygon points="551 292, 541.9955 287.6503, 541.9955 296.3497" style="stroke: none; stroke-linecap: butt; stroke-width: 2; fill: rgb(92%,55%,23%); fill-rule: evenodd;"/>
+			<path d="M 650,222 L 650,163 Z" style="stroke: rgb(14%,53%,72%); stroke-linecap: butt; stroke-width: 4;"/>
+			<path d="M 650,163 L 148,163 Z" style="stroke: rgb(14%,53%,72%); stroke-linecap: butt; stroke-width: 4;"/>
+			<polygon points="148 163, 157.0045 167.3497, 157.0045 158.6503" style="stroke: none; stroke-linecap: butt; stroke-width: 2; fill: rgb(14%,53%,72%); fill-rule: evenodd;"/>
+			<path d="M 148,163 L 148,221 Z" style="stroke: rgb(14%,53%,72%); stroke-linecap: butt; stroke-width: 4;"/>
+			<polygon points="148 221, 152.3497 211.9955, 143.6503 211.9955" style="stroke: none; stroke-linecap: butt; stroke-width: 2; fill: rgb(14%,53%,72%); fill-rule: evenodd;"/>
+			<text x="280" y="132" style="font-family: Arial, sans-serif; font-size: 12px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,264) scale(1,-1)">Circuito ilustrativo com líquido</text>
+			<rect x="30" y="48" width="740" height="54" rx="9" ry="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,94%,92%); fill-rule: evenodd;"/>
+			<text x="45" y="78" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 13px;fill: rgb(5%,54%,47%); stroke:none;" transform="translate(0,156) scale(1,-1)">Líquido de arrefecimento e refrigerante do ar-condicionado são distintos.</text>
+			<text x="45" y="59" style="font-family: Arial, sans-serif; font-size: 10px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,118) scale(1,-1)">Nem todo veículo usa esta arquitetura. Não abra reservatórios quentes.</text>
+		</g>
+	</g>
+</svg>

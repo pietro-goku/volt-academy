@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg width="800" height="450" preserveAspectRatio="xMinYMin meet" viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Um relato que ajuda a oficina</title>
+	<desc>Esquema didático autoral Volt Academy; arquiteturas variam por modelo.</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="800" height="450"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-450)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="800" height="450" rx="10" ry="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(95%,96%,98%); fill-rule: evenodd;"/>
+			<text x="30" y="423" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 10px;fill: rgb(5%,54%,47%); stroke:none;" transform="translate(0,846) scale(1,-1)">VOLT ACADEMY / VISUAL DE ESTUDO</text>
+			<text x="30" y="391" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 23px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,782) scale(1,-1)">Um relato que ajuda a oficina</text>
+			<path d="M 30,369 L 770,369 Z" style="stroke: rgb(85%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="30" y="22" style="font-family: Arial, sans-serif; font-size: 9px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,44) scale(1,-1)">ESQUEMA DIDÁTICO • ARQUITETURAS E PROCEDIMENTOS VARIAM POR MODELO</text>
+			<rect x="35" y="175" width="232" height="143" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="35" y="175" width="4" height="143" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,53%,72%); fill-rule: evenodd;"/>
+			<text x="49" y="290" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,580) scale(1,-1)">ANTES</text>
+			<text x="49" y="267" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,534) scale(1,-1)">Último funcionamento</text>
+			<text x="49" y="248" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,496) scale(1,-1)">Tempo parado</text>
+			<text x="49" y="229" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,458) scale(1,-1)">Serviço recente</text>
+			<rect x="283" y="175" width="232" height="143" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="283" y="175" width="4" height="143" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,66%,16%); fill-rule: evenodd;"/>
+			<text x="297" y="290" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,580) scale(1,-1)">DURANTE</text>
+			<text x="297" y="267" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,534) scale(1,-1)">Texto do painel</text>
+			<text x="297" y="248" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,496) scale(1,-1)">Carga indicada</text>
+			<text x="297" y="229" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,458) scale(1,-1)">Condições de uso</text>
+			<rect x="531" y="175" width="232" height="143" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="531" y="175" width="4" height="143" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(5%,54%,47%); fill-rule: evenodd;"/>
+			<text x="545" y="290" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,580) scale(1,-1)">DEPOIS</text>
+			<text x="545" y="267" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,534) scale(1,-1)">Persistiu ou sumiu?</text>
+			<text x="545" y="248" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,496) scale(1,-1)">Houve novo alerta?</text>
+			<text x="545" y="229" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,458) scale(1,-1)">O que foi registrado?</text>
+			<path d="M 268,246 L 281,246 Z" style="stroke: rgb(5%,54%,47%); stroke-linecap: butt; stroke-width: 3;"/>
+			<polygon points="281 246, 271.9955 241.6503, 271.9955 250.3497" style="stroke: none; stroke-linecap: butt; stroke-width: 2; fill: rgb(5%,54%,47%); fill-rule: evenodd;"/>
+			<path d="M 516,246 L 529,246 Z" style="stroke: rgb(5%,54%,47%); stroke-linecap: butt; stroke-width: 3;"/>
+			<polygon points="529 246, 519.9955 241.6503, 519.9955 250.3497" style="stroke: none; stroke-linecap: butt; stroke-width: 2; fill: rgb(5%,54%,47%); fill-rule: evenodd;"/>
+			<rect x="30" y="48" width="740" height="54" rx="9" ry="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,94%,92%); fill-rule: evenodd;"/>
+			<text x="45" y="78" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 13px;fill: rgb(5%,54%,47%); stroke:none;" transform="translate(0,156) scale(1,-1)">Exemplo de registro: “Após 15 dias parado, o painel acende sem READY.”</text>
+			<text x="45" y="59" style="font-family: Arial, sans-serif; font-size: 10px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,118) scale(1,-1)">Situação fictícia para praticar a descrição do sintoma.</text>
+		</g>
+	</g>
+</svg>

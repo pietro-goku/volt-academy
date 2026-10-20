@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg width="800" height="450" preserveAspectRatio="xMinYMin meet" viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Duas baterias. Funções diferentes.</title>
+	<desc>Esquema didático autoral Volt Academy; arquiteturas variam por modelo.</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="800" height="450"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-450)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="800" height="450" rx="10" ry="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(95%,96%,98%); fill-rule: evenodd;"/>
+			<text x="30" y="423" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 10px;fill: rgb(5%,54%,47%); stroke:none;" transform="translate(0,846) scale(1,-1)">VOLT ACADEMY / VISUAL DE ESTUDO</text>
+			<text x="30" y="391" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 23px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,782) scale(1,-1)">Duas baterias. Funções diferentes.</text>
+			<path d="M 30,369 L 770,369 Z" style="stroke: rgb(85%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="30" y="22" style="font-family: Arial, sans-serif; font-size: 9px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,44) scale(1,-1)">ESQUEMA DIDÁTICO • ARQUITETURAS E PROCEDIMENTOS VARIAM POR MODELO</text>
+			<rect x="45" y="234" width="155" height="88" rx="9" ry="9" style="stroke: rgb(5%,54%,47%); stroke-linecap: butt; stroke-width: 2; fill: rgb(89%,95%,92%); fill-rule: evenodd;"/>
+			<rect x="200" y="262.16" width="9" height="31.680000000000007" rx="2" ry="2" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(5%,54%,47%); fill-rule: evenodd;"/>
+			<rect x="57.0" y="262" width="26.25" height="48" rx="3" ry="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,88%,87%); fill-rule: evenodd;"/>
+			<rect x="57.0" y="262" width="26.25" height="48" rx="3" ry="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(51%,78%,67%); fill-rule: evenodd;"/>
+			<rect x="89.75" y="262" width="26.25" height="48" rx="3" ry="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,88%,87%); fill-rule: evenodd;"/>
+			<rect x="89.75" y="262" width="26.25" height="48" rx="3" ry="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(51%,78%,67%); fill-rule: evenodd;"/>
+			<rect x="122.5" y="262" width="26.25" height="48" rx="3" ry="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,88%,87%); fill-rule: evenodd;"/>
+			<rect x="122.5" y="262" width="26.25" height="48" rx="3" ry="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(51%,78%,67%); fill-rule: evenodd;"/>
+			<rect x="155.25" y="262" width="26.25" height="48" rx="3" ry="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,88%,87%); fill-rule: evenodd;"/>
+			<rect x="155.25" y="262" width="26.25" height="48" rx="3" ry="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(51%,78%,67%); fill-rule: evenodd;"/>
+			<text x="99.580078125" y="244" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 10px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,488) scale(1,-1)">TRAÇÃO</text>
+			<rect x="287" y="234" width="178" height="88" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="287" y="234" width="4" height="88" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(92%,55%,23%); fill-rule: evenodd;"/>
+			<text x="301" y="294" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,588) scale(1,-1)">Conversor DC/DC</text>
+			<text x="301" y="271" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,542) scale(1,-1)">Adapta a tensão</text>
+			<text x="301" y="252" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,504) scale(1,-1)">para a rede auxiliar</text>
+			<rect x="563" y="234" width="161" height="88" rx="9" ry="9" style="stroke: rgb(5%,54%,47%); stroke-linecap: butt; stroke-width: 2; fill: rgb(100%,94%,82%); fill-rule: evenodd;"/>
+			<rect x="724" y="262.16" width="9" height="31.680000000000007" rx="2" ry="2" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(5%,54%,47%); fill-rule: evenodd;"/>
+			<rect x="575.0" y="262" width="27.75" height="48" rx="3" ry="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,88%,87%); fill-rule: evenodd;"/>
+			<rect x="575.0" y="262" width="27.75" height="48" rx="3" ry="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(51%,78%,67%); fill-rule: evenodd;"/>
+			<rect x="609.25" y="262" width="27.75" height="48" rx="3" ry="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,88%,87%); fill-rule: evenodd;"/>
+			<rect x="609.25" y="262" width="27.75" height="48" rx="3" ry="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(51%,78%,67%); fill-rule: evenodd;"/>
+			<rect x="643.5" y="262" width="27.75" height="48" rx="3" ry="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,88%,87%); fill-rule: evenodd;"/>
+			<rect x="643.5" y="262" width="27.75" height="48" rx="3" ry="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(51%,78%,67%); fill-rule: evenodd;"/>
+			<rect x="677.75" y="262" width="27.75" height="48" rx="3" ry="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,88%,87%); fill-rule: evenodd;"/>
+			<rect x="677.75" y="262" width="27.75" height="48" rx="3" ry="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(51%,78%,67%); fill-rule: evenodd;"/>
+			<text x="617.0888671875" y="244" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 10px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,488) scale(1,-1)">AUXILIAR</text>
+			<path d="M 210,279 L 280,279 Z" style="stroke: rgb(92%,55%,23%); stroke-linecap: butt; stroke-width: 3;"/>
+			<polygon points="280 279, 270.9955 274.6503, 270.9955 283.3497" style="stroke: none; stroke-linecap: butt; stroke-width: 2; fill: rgb(92%,55%,23%); fill-rule: evenodd;"/>
+			<path d="M 473,279 L 554,279 Z" style="stroke: rgb(92%,55%,23%); stroke-linecap: butt; stroke-width: 3;"/>
+			<polygon points="554 279, 544.9955 274.6503, 544.9955 283.3497" style="stroke: none; stroke-linecap: butt; stroke-width: 2; fill: rgb(92%,55%,23%); fill-rule: evenodd;"/>
+			<path d="M 645,224 L 645,181 Z" style="stroke: rgb(14%,53%,72%); stroke-linecap: butt; stroke-width: 3;"/>
+			<polygon points="645 181, 640.6503 190.0045, 649.3497 190.0045" style="stroke: none; stroke-linecap: butt; stroke-width: 2; fill: rgb(14%,53%,72%); fill-rule: evenodd;"/>
+			<rect x="445" y="117" width="302" height="54" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="445" y="117" width="4" height="54" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,53%,72%); fill-rule: evenodd;"/>
+			<text x="459" y="143" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,286) scale(1,-1)">Controle, luzes e acessórios</text>
+			<rect x="45" y="126" width="295" height="60" rx="10" ry="10" style="stroke: rgb(84%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="45" y="126" width="4" height="60" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(5%,54%,47%); fill-rule: evenodd;"/>
+			<text x="59" y="158" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 14px;fill: rgb(8%,16%,25%); stroke:none;" transform="translate(0,316) scale(1,-1)">Circuitos com funções diferentes</text>
+			<text x="59" y="135" style="font-family: Arial, sans-serif; font-size: 11px;fill: rgb(40%,47%,54%); stroke:none;" transform="translate(0,270) scale(1,-1)">A tensão auxiliar varia por projeto.</text>
+			<rect x="30" y="48" width="740" height="54" rx="9" ry="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,94%,92%); fill-rule: evenodd;"/>
+			<text x="45" y="78" style="font-family: Arial, sans-serif; font-weight: 700; font-size: 13px;fill: rgb(5%,54%,47%); stroke:none;" transform="translate(0,156) scale(1,-1)">Carga de tração disponível não comprova uma rede auxiliar saudável.</text>
+		</g>
+	</g>
+</svg>

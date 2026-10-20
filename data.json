@@ -1,0 +1,625 @@
+{
+  "courses": [
+    {
+      "id": "fundamentos",
+      "title": "Por dentro do carro elétrico",
+      "category": "Fundamentos",
+      "level": "Iniciante",
+      "desc": "Entenda o caminho da energia e a função de cada componente.",
+      "icon": "car",
+      "color": "mint",
+      "lessons": [
+        {
+          "title": "Da bateria às rodas",
+          "goal": "Reconhecer os principais componentes de um veículo 100% elétrico.",
+          "sections": [
+            {
+              "title": "O caminho da energia",
+              "text": "A bateria de tração armazena energia elétrica. A eletrônica de potência controla o fornecimento ao motor, que produz movimento. Um conjunto de redução transmite esse movimento às rodas. O desenho da plataforma pode reunir diferentes componentes na mesma carcaça."
+            },
+            {
+              "title": "Aprenda pelo sistema",
+              "text": "Antes de procurar uma peça, identifique sua função: armazenar energia, controlar potência ou transmitir movimento. Nomes comerciais variam; a identificação no catálogo do fabricante é a referência para cada veículo."
+            },
+            {
+              "title": "Inversor: o papel na arquitetura",
+              "text": "Nas arquiteturas apresentadas pela Bosch, o inversor converte a corrente contínua da bateria em corrente alternada para o motor. Ele não tem a mesma função do conversor DC/DC. O projeto específico do veículo define como esses componentes estão integrados."
+            }
+          ],
+          "example": "Um ruído percebido na dianteira não confirma defeito no motor elétrico. Pneus, rolamentos e transmissão também entram na investigação.",
+          "question": "Qual componente armazena a energia usada na tração?",
+          "options": [
+            "Bateria de tração",
+            "Redutor",
+            "Porta de recarga"
+          ],
+          "answer": 0,
+          "why": "A bateria de tração é o reservatório de energia do sistema.",
+          "refs": [
+            0,
+            9
+          ]
+        },
+        {
+          "title": "Bateria auxiliar e conversor DC/DC",
+          "goal": "Distinguir o circuito auxiliar do circuito de tração.",
+          "sections": [
+            {
+              "title": "Duas funções diferentes",
+              "text": "A bateria auxiliar alimenta acessórios e circuitos de controle; a bateria de tração fornece energia para movimentar o carro. O conversor DC/DC adapta a energia do circuito de tração para a rede auxiliar. A tensão e a tecnologia da bateria auxiliar dependem do modelo."
+            },
+            {
+              "title": "Uma pergunta melhor",
+              "text": "Um painel apagado não basta para condenar a bateria de tração. Registre se as luzes internas, travas e painel funcionam e entregue esse histórico à oficina. A confirmação exige testes conforme o manual."
+            }
+          ],
+          "example": "O cliente informa carga de tração disponível, mas o carro não entra em READY. O estado da rede auxiliar é uma das hipóteses de investigação.",
+          "question": "Ter carga na bateria de tração garante que a rede auxiliar esteja saudável?",
+          "options": [
+            "Sim, sempre",
+            "Não",
+            "Somente acima de 50%"
+          ],
+          "answer": 1,
+          "why": "São sistemas com funções diferentes; o relato de carga não comprova a condição da rede auxiliar.",
+          "refs": [
+            0,
+            2
+          ]
+        },
+        {
+          "title": "Segurança antes da ferramenta",
+          "goal": "Reconhecer limites de atuação ao redor da alta tensão.",
+          "sections": [
+            {
+              "title": "Desligado não significa sem energia",
+              "text": "Cabos de alta tensão geralmente têm identificação laranja. Componentes podem reter energia mesmo com o carro desligado. Não abra a bateria nem desconecte esses cabos como tentativa de diagnóstico."
+            },
+            {
+              "title": "Competência por atividade",
+              "text": "Intervenções em alta tensão exigem capacitação, procedimentos específicos do fabricante e equipamento adequado. Este conteúdo introdutório desenvolve reconhecimento de sistemas; a leitura não habilita para intervenções. Veículos com dano, inundação ou indício de aquecimento anormal exigem avaliação especializada."
+            }
+          ],
+          "example": "Em uma avaliação de compra, a carcaça inferior da bateria parece amassada. A próxima etapa é uma avaliação especializada, sem abrir o conjunto.",
+          "question": "O carro desligado garante ausência de tensão perigosa?",
+          "options": [
+            "Sim",
+            "Não",
+            "Sim, se estiver sem a chave"
+          ],
+          "answer": 1,
+          "why": "Pode existir energia armazenada. A segurança depende de procedimento específico e profissionais capacitados.",
+          "refs": [
+            1,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "id": "diagnostico",
+      "title": "Diagnóstico com método",
+      "category": "Diagnóstico",
+      "level": "Intermediário",
+      "desc": "Organize sintomas, histórico e evidências antes de trocar peças.",
+      "icon": "scan",
+      "color": "blue",
+      "lessons": [
+        {
+          "title": "O carro não entra em READY",
+          "goal": "Transformar uma queixa genérica em um relato útil para diagnóstico.",
+          "sections": [
+            {
+              "title": "Descreva a condição",
+              "text": "READY indica que o sistema de propulsão está disponível, conforme o modelo. Registre o texto exato do painel, carga indicada, posição do seletor e se o cabo de recarga está conectado. Consulte a sequência de partida no manual do veículo."
+            },
+            {
+              "title": "Evite o salto para a peça",
+              "text": "Separe observação de hipótese. “O painel acende e exibe uma mensagem” é observação. “O inversor queimou” exige comprovação. Bateria auxiliar, autorizações de partida e falhas registradas podem ser investigadas por uma oficina."
+            }
+          ],
+          "example": "Depois de uma parada prolongada, o veículo acende o painel e não habilita a tração. Fotografe a mensagem e registre quando funcionou pela última vez.",
+          "question": "Qual registro ajuda mais a oficina?",
+          "options": [
+            "Só dizer que não liga",
+            "Afirmar que a bateria morreu",
+            "Mensagem exata e condições da ocorrência"
+          ],
+          "answer": 2,
+          "why": "Um histórico verificável orienta o teste e evita conclusões precipitadas.",
+          "refs": [
+            2
+          ]
+        },
+        {
+          "title": "Scanner: código não é diagnóstico",
+          "goal": "Entender o que um código de falha pode e não pode dizer.",
+          "sections": [
+            {
+              "title": "Preserve o contexto",
+              "text": "Um DTC é um registro de falha detectada por um sistema. Seu significado e plano de testes devem ser conferidos na documentação daquele modelo. Ferramentas genéricas podem não acessar todos os módulos ou funções."
+            },
+            {
+              "title": "Monte um relatório",
+              "text": "Antes de apagar registros, a oficina deve preservar códigos, estado da falha, dados associados e condições da ocorrência. Registre identificação do veículo, ferramenta e data. A cobertura do scanner deve ser confirmada para o modelo e a função desejada."
+            }
+          ],
+          "example": "Um código aparece após uma ocorrência intermitente. Trocar a peça citada na descrição sem investigar alimentação, conexões e contexto pode não resolver a causa.",
+          "question": "Um código, sozinho, autoriza condenar uma peça?",
+          "options": [
+            "Não",
+            "Sim",
+            "Sim, se reaparecer"
+          ],
+          "answer": 0,
+          "why": "O código orienta a investigação. A conclusão depende de testes específicos e interpretação técnica.",
+          "refs": [
+            4
+          ]
+        },
+        {
+          "title": "Autonomia menor: como comparar",
+          "goal": "Montar uma comparação sem confundir estimativa com capacidade.",
+          "sections": [
+            {
+              "title": "Compare condições equivalentes",
+              "text": "A autonomia indicada é uma estimativa. Para avaliar uma queixa, registre percurso, velocidade, temperatura, uso do ar-condicionado, carga transportada e pressão dos pneus conforme o manual. Compare viagens semelhantes, em vez de apenas números no painel."
+            },
+            {
+              "title": "Carga não é saúde",
+              "text": "SOC descreve o estado de carga; SOH se relaciona à condição da bateria, conforme o método usado. Uma queda de autonomia isolada não determina o SOH. Solicite avaliação técnica quando houver perda persistente ou alertas."
+            }
+          ],
+          "example": "Um trajeto urbano e uma viagem rodoviária não são uma comparação controlada. Primeiro organize condições e consumo; depois discuta hipóteses.",
+          "question": "SOC e SOH representam a mesma coisa?",
+          "options": [
+            "Sim",
+            "Não",
+            "Só em um carro novo"
+          ],
+          "answer": 1,
+          "why": "Carga disponível e condição da bateria são conceitos distintos.",
+          "refs": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "recarga",
+      "title": "Recarga e gestão térmica",
+      "category": "Recarga",
+      "level": "Iniciante",
+      "desc": "Diferencie AC e DC e entenda limitações de carga e temperatura.",
+      "icon": "plug",
+      "color": "orange",
+      "lessons": [
+        {
+          "title": "Recarga AC e DC sem confusão",
+          "goal": "Distinguir a função do carregador de bordo e da estação.",
+          "sections": [
+            {
+              "title": "Onde acontece a conversão",
+              "text": "Na recarga AC, o carregador de bordo converte corrente alternada em contínua para a bateria. Na recarga DC, a conversão ocorre na estação externa. A entrada, o conector e os limites compatíveis devem ser conferidos no manual."
+            },
+            {
+              "title": "Não compre pela aparência",
+              "text": "O formato do conector não é toda a especificação. Confirme padrão, aplicação e aprovação do fabricante antes de adquirir cabo ou equipamento. Potência anunciada da estação não garante que o carro receberá esse valor durante toda a sessão."
+            },
+            {
+              "title": "Potência e energia: kW e kWh",
+              "text": "kW é unidade de potência; kWh é unidade de energia. Como exemplo idealizado, fornecer 7 kW durante 2 horas corresponde a 14 kWh antes de considerar perdas e variações. A escrita kW/h representa outra grandeza e não deve ser usada como sinônimo de quilowatt-hora."
+            }
+          ],
+          "example": "Uma estação capaz de fornecer mais potência do que o veículo aceita não elimina os limites do próprio carro.",
+          "question": "Na recarga AC, quem converte a energia para carregar a bateria?",
+          "options": [
+            "O pneu",
+            "O carregador de bordo",
+            "O redutor"
+          ],
+          "answer": 1,
+          "why": "O carregador de bordo realiza a conversão de AC para DC.",
+          "refs": [
+            0,
+            2
+          ]
+        },
+        {
+          "title": "Quando a recarga não começa",
+          "goal": "Registrar evidências sem abrir o equipamento de recarga.",
+          "sections": [
+            {
+              "title": "Observe antes de repetir",
+              "text": "Registre mensagens do veículo e da estação, horário, nível de carga, agendamento e limite de carga configurado. Consulte o manual e o suporte da rede para a sequência de conexão e autorização."
+            },
+            {
+              "title": "Delimite a ocorrência",
+              "text": "Anote se acontece em uma única estação ou em várias e se a falha aparece em AC, DC ou ambas. Essa comparação organiza o relato, sem confirmar qual componente falhou. Não use adaptadores improvisados nem insista com cabo, tomada ou conector danificados."
+            },
+            {
+              "title": "Exemplo internacional: Tesla Model 3",
+              "text": "No guia Tesla consultado, azul piscando indica comunicação com a estação; verde piscando indica recarga em andamento. Verde contínua indica conclusão e vermelho indica falha. Confira a mensagem no veículo. Esse exemplo pertence ao Model 3 e não é uma tabela universal para outras marcas."
+            }
+          ],
+          "example": "O veículo não inicia a sessão porque está programado para carregar mais tarde. Conferir a configuração é uma etapa anterior a investigar o carregador.",
+          "question": "Qual informação distingue melhor a ocorrência?",
+          "options": [
+            "A cor do veículo",
+            "Somente a marca do cabo",
+            "Tipo de recarga, estação e mensagem exibida"
+          ],
+          "answer": 2,
+          "why": "Esses dados ajudam a separar configuração, infraestrutura e veículo como linhas de investigação.",
+          "refs": [
+            2,
+            7
+          ]
+        },
+        {
+          "title": "Temperatura e redução de potência",
+          "goal": "Reconhecer que limitação pode ser uma estratégia de proteção.",
+          "sections": [
+            {
+              "title": "Temperatura importa",
+              "text": "O sistema térmico controla a temperatura de componentes conforme a arquitetura. Alguns veículos usam circuitos de líquido; outros adotam soluções diferentes. Siga as especificações do fabricante para inspeções, fluidos e intervalos."
+            },
+            {
+              "title": "Registre o alerta",
+              "text": "Uma limitação de potência ou recarga pode ter múltiplas causas. Registre condições de uso e alertas. Se houver fumaça, odor anormal ou aquecimento intenso, interrompa o uso, afaste-se e acione assistência ou emergência conforme a situação. Não abra reservatórios quentes."
+            },
+            {
+              "title": "Visão de sistema: Bosch",
+              "text": "A Bosch descreve a integração de circuitos térmicos para bateria, tração e cabine, conforme o projeto. O refrigerante do ar-condicionado e o líquido de arrefecimento têm funções distintas. Uma queixa térmica deve ser investigada com base na arquitetura do modelo, sem pressupor que todos usem o mesmo circuito."
+            }
+          ],
+          "example": "A queixa aparece em uma viagem longa e não no uso urbano. Registrar temperatura ambiente, duração e mensagens ajuda a oficina a reproduzir a condição.",
+          "question": "É correto usar qualquer fluido no circuito de arrefecimento?",
+          "options": [
+            "Sim",
+            "Não",
+            "Sim, se tiver a mesma cor"
+          ],
+          "answer": 1,
+          "why": "A compatibilidade depende da especificação do fabricante, não da cor.",
+          "refs": [
+            3,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "manutencao",
+      "title": "Manutenção e peças certas",
+      "category": "Manutenção",
+      "level": "Iniciante",
+      "desc": "Planeje inspeções e prepare uma compra com compatibilidade e procedência.",
+      "icon": "tool",
+      "color": "purple",
+      "lessons": [
+        {
+          "title": "O que ainda precisa de manutenção",
+          "goal": "Montar uma rotina a partir do plano do fabricante.",
+          "sections": [
+            {
+              "title": "Menos itens não significa zero",
+              "text": "Um elétrico continua com pneus, freios, suspensão, filtros e outros itens de inspeção. A frenagem regenerativa não dispensa a avaliação do sistema de freios. O plano exato depende do veículo, do tempo e das condições de uso."
+            },
+            {
+              "title": "Um controle simples",
+              "text": "Crie uma ficha com quilometragem, data, item, especificação e comprovante do serviço. Consulte o plano do fabricante antes de estabelecer intervalos. Em híbridos, inclua também as exigências do motor a combustão."
+            }
+          ],
+          "example": "A oficina propõe um pacote genérico. Peça a relação dos itens e compare com o manual de manutenção do seu ano e versão.",
+          "question": "A regeneração elimina a manutenção dos freios?",
+          "options": [
+            "Sim",
+            "Não",
+            "Só na cidade"
+          ],
+          "answer": 1,
+          "why": "Freios continuam sendo componentes de segurança e exigem inspeção conforme o plano.",
+          "refs": [
+            3
+          ]
+        },
+        {
+          "title": "Compatibilidade: confira antes de pagar",
+          "goal": "Criar uma ficha de identificação para cotar a peça correta.",
+          "sections": [
+            {
+              "title": "A identificação vem primeiro",
+              "text": "Informe marca, modelo, ano de fabricação e modelo, versão, motorização e código OEM quando disponível. Solicite ao fornecedor a validação pelo chassi em canal confiável. Uma foto parecida não comprova aplicação."
+            },
+            {
+              "title": "Guarde a confirmação",
+              "text": "Peça confirmação escrita de aplicação, condição da peça, garantia, nota fiscal, prazo e política de devolução. Para módulos eletrônicos, questione também se há programação, pareamento ou versão de software a considerar."
+            }
+          ],
+          "example": "Dois anúncios descrevem “bomba para elétrico”, mas usam códigos diferentes. Envie os dados do veículo ao fornecedor antes da compra.",
+          "question": "Qual critério é mais forte para compatibilidade?",
+          "options": [
+            "Aparência semelhante",
+            "Menor preço",
+            "Código e aplicação confirmados para o veículo"
+          ],
+          "answer": 2,
+          "why": "A confirmação de aplicação evita depender apenas da imagem ou de uma descrição genérica.",
+          "refs": [
+            5,
+            6
+          ]
+        },
+        {
+          "title": "Onde comprar e como cotar",
+          "goal": "Comparar propostas com base em dados verificáveis.",
+          "sections": [
+            {
+              "title": "Comece pelos canais identificados",
+              "text": "Use a rede oficial da marca para consultar aplicação e disponibilidade. O diretório deste site oferece links de consulta, incluindo BYD e Saga BYD; não há vínculo comercial com essas empresas. Preço e estoque precisam de confirmação direta."
+            },
+            {
+              "title": "Compare o custo completo",
+              "text": "Além da peça, considere frete, tributos, instalação, programação e devolução. Desconfie de pagamento fora do canal oficial e solicite orçamento identificado. Componentes de alta tensão devem ser selecionados e instalados por profissionais capacitados."
+            }
+          ],
+          "example": "Uma oferta é mais barata, mas não esclarece se o módulo é usado ou requer programação. Peça esses detalhes antes de comparar o total.",
+          "question": "O link de um fornecedor garante estoque e aplicação?",
+          "options": [
+            "Não",
+            "Sim",
+            "Somente para peças originais"
+          ],
+          "answer": 0,
+          "why": "Estoque, condição e aplicação dependem de confirmação no momento da compra.",
+          "refs": [
+            5,
+            6
+          ]
+        }
+      ]
+    }
+  ],
+  "defects": [
+    {
+      "title": "Não liga / não entra em READY",
+      "system": "Partida",
+      "icon": "power",
+      "symptom": "Painel apagado, mensagens ou tração indisponível.",
+      "causes": [
+        "Rede auxiliar com alimentação inadequada",
+        "Condições de partida não atendidas",
+        "Falha registrada no sistema de controle"
+      ],
+      "checks": [
+        "Fotografe o texto exato do painel.",
+        "Anote carga indicada, último uso e se o cabo está conectado.",
+        "Confira a sequência de partida no manual."
+      ],
+      "next": "A oficina deve avaliar a rede auxiliar e as autorizações de partida antes de condenar componentes de tração.",
+      "course": 1,
+      "lesson": 0
+    },
+    {
+      "title": "Não inicia a recarga",
+      "system": "Recarga",
+      "icon": "plug",
+      "symptom": "O cabo conecta, mas a sessão não começa.",
+      "causes": [
+        "Agendamento ou limite de carga configurado",
+        "Autorização ou indisponibilidade da estação",
+        "Ocorrência no cabo, entrada ou sistema do veículo"
+      ],
+      "checks": [
+        "Confira agendamento e limite no veículo.",
+        "Registre mensagem e identificação da estação.",
+        "Anote se ocorre em AC, DC ou ambas."
+      ],
+      "next": "Se a configuração estiver correta e a ocorrência persistir, encaminhe os registros ao suporte da estação e à oficina.",
+      "course": 2,
+      "lesson": 1
+    },
+    {
+      "title": "Autonomia abaixo do esperado",
+      "system": "Bateria",
+      "icon": "battery",
+      "symptom": "Estimativa ou alcance menor do que em viagens anteriores.",
+      "causes": [
+        "Mudança de percurso, velocidade ou clima",
+        "Pneus, carga transportada e climatização",
+        "Condição da bateria a avaliar"
+      ],
+      "checks": [
+        "Compare viagens em condições semelhantes.",
+        "Registre distância, consumo e carga inicial/final.",
+        "Confira a pressão indicada pelo fabricante."
+      ],
+      "next": "Perda persistente pede avaliação técnica; o painel sozinho não mede a saúde da bateria.",
+      "course": 1,
+      "lesson": 2
+    },
+    {
+      "title": "Potência limitada / alerta térmico",
+      "system": "Temperatura",
+      "icon": "thermo",
+      "symptom": "Aviso de temperatura ou redução de desempenho.",
+      "causes": [
+        "Estratégia de proteção do veículo",
+        "Condição térmica fora do esperado",
+        "Falha que exige diagnóstico específico"
+      ],
+      "checks": [
+        "Registre o alerta e as condições de uso.",
+        "Siga a orientação exibida pelo veículo.",
+        "Não abra reservatórios quentes."
+      ],
+      "next": "Se houver fumaça, odor anormal ou aquecimento intenso, interrompa o uso, afaste-se e acione assistência ou emergência.",
+      "course": 2,
+      "lesson": 2
+    },
+    {
+      "title": "Ruídos ou vibração ao rodar",
+      "system": "Mecânica",
+      "icon": "tool",
+      "symptom": "Ruído que varia com velocidade, piso ou aceleração.",
+      "causes": [
+        "Pneus ou rodas",
+        "Rolamentos e suspensão",
+        "Conjunto de transmissão a avaliar"
+      ],
+      "checks": [
+        "Registre em qual velocidade e condição ocorre.",
+        "Diferencie vibração parada e em movimento.",
+        "Não tente reproduzir a falha em condução insegura."
+      ],
+      "next": "Solicite inspeção de pneus, rodas e componentes mecânicos; ruído não comprova defeito no motor.",
+      "course": 3,
+      "lesson": 0
+    },
+    {
+      "title": "Luz de falha no painel",
+      "system": "Eletrônica",
+      "icon": "scan",
+      "symptom": "Mensagem ou luz de advertência persistente.",
+      "causes": [
+        "Ocorrência detectada por um módulo",
+        "Problema intermitente ou permanente",
+        "Condição que requer leitura dos registros"
+      ],
+      "checks": [
+        "Fotografe símbolo e mensagem completa.",
+        "Registre quando surgiu e o que mudou antes.",
+        "Não apague códigos antes de preservar o relatório."
+      ],
+      "next": "Uma oficina com scanner compatível interpreta códigos e dados seguindo o manual. O código isolado não condena uma peça.",
+      "course": 1,
+      "lesson": 1
+    }
+  ],
+  "providers": [
+    {
+      "name": "Rede oficial BYD",
+      "brand": "BYD",
+      "kind": "Rede oficial",
+      "desc": "Localize uma concessionária e consulte o departamento de peças para aplicação e cotação.",
+      "url": "https://www.byd.com/br/find-store",
+      "region": "Brasil"
+    },
+    {
+      "name": "Saga BYD — Peças",
+      "brand": "BYD",
+      "kind": "Peças originais",
+      "desc": "Canal de orçamento de peças. A rede lista unidade em Porto Velho/RO; confirme a unidade ao entrar em contato.",
+      "url": "https://www.sagabyd.com.br/servicos/pecas",
+      "region": "Inclui Rondônia"
+    },
+    {
+      "name": "Nissan — Manuais LEAF",
+      "brand": "Nissan",
+      "kind": "Documentação",
+      "desc": "Selecione o ano e consulte o manual antes de solicitar uma peça ou serviço. Canal de documentação, não loja.",
+      "url": "https://www.nissan.com.br/servicos/manuais/leaf.html",
+      "region": "Brasil"
+    },
+    {
+      "name": "Bosch — Diagnóstico",
+      "brand": "Multimarcas",
+      "kind": "Ferramentas",
+      "desc": "Informações de scanners profissionais. Confirme com o fornecedor a cobertura do veículo e de cada função.",
+      "url": "https://am.boschaftermarket.com/br/pt/equipamentos/scanners-de-diagnostico/scanners-de-diagnostico/",
+      "region": "Brasil"
+    }
+  ],
+  "sources": [
+    {
+      "name": "AFDC / Departamento de Energia dos EUA — Componentes de um elétrico",
+      "url": "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work",
+      "origin": "Estados Unidos · Original em inglês",
+      "topic": "Como funciona um elétrico",
+      "summary": "A energia é armazenada na bateria de tração e usada pelo motor elétrico. Carregador de bordo, eletrônica de potência, conversor DC/DC e sistema térmico desempenham funções diferentes dentro da arquitetura.",
+      "apply": "Comece identificando sistemas e funções, antes de relacionar um sintoma a uma peça.",
+      "kind": "Adaptação didática em português do Brasil"
+    },
+    {
+      "name": "HSE — Segurança no trabalho com elétricos e híbridos",
+      "url": "https://www.hse.gov.uk/mvr/topics/electric-hybrid.htm",
+      "origin": "Reino Unido · Original em inglês",
+      "topic": "Segurança além de desligar o carro",
+      "summary": "A orientação britânica destaca que pode permanecer energia perigosa mesmo após desligar o veículo. Trabalho em alta tensão exige competência, informação específica do fabricante e controles adequados ao serviço.",
+      "apply": "O HSE é referência técnica internacional; não substitui as exigências legais brasileiras nem o procedimento do veículo.",
+      "kind": "Adaptação didática em português do Brasil"
+    },
+    {
+      "name": "Nissan Brasil — Manuais do LEAF por ano",
+      "url": "https://www.nissan.com.br/servicos/manuais/leaf.html",
+      "origin": "Brasil · Original em português"
+    },
+    {
+      "name": "AFDC — Manutenção e segurança de veículos elétricos",
+      "url": "https://afdc.energy.gov/vehicles/electric-maintenance",
+      "origin": "Estados Unidos · Original em inglês",
+      "topic": "Elétrico também precisa de manutenção",
+      "summary": "Em geral, veículos totalmente elétricos têm menos itens de manutenção do que veículos com motor a combustão. Isso não elimina inspeções de pneus, freios e demais sistemas. Circuitos de arrefecimento, quando presentes, precisam do cuidado definido pelo fabricante.",
+      "apply": "Consulte o plano específico por ano e versão. Híbridos também mantêm as necessidades do sistema a combustão.",
+      "kind": "Adaptação didática em português do Brasil"
+    },
+    {
+      "name": "Bosch Brasil — Scanners de diagnóstico",
+      "url": "https://am.boschaftermarket.com/br/pt/equipamentos/scanners-de-diagnostico/scanners-de-diagnostico/",
+      "origin": "Brasil · Original em português"
+    },
+    {
+      "name": "BYD Brasil — Rede de concessionárias",
+      "url": "https://www.byd.com/br/find-store",
+      "origin": "Brasil · Original em português"
+    },
+    {
+      "name": "Saga BYD — Peças originais e solicitação de orçamento",
+      "url": "https://www.sagabyd.com.br/servicos/pecas",
+      "origin": "Brasil · Original em português"
+    },
+    {
+      "name": "Tesla — Luzes da porta de recarga do Model 3",
+      "url": "https://service.tesla.com/docs/Public/diy/model3/en_us/GUID-07FBA723-779F-4CF0-B9A7-AA8076335CE4.html",
+      "origin": "Estados Unidos · Original em inglês",
+      "summary": "No guia do Model 3, a luz azul piscando indica comunicação com a estação; verde piscando, recarga em andamento; verde contínua, recarga concluída. A luz vermelha indica uma falha e pede consulta à mensagem do veículo. Essas cores são um exemplo específico da Tesla e não devem ser generalizadas para outras marcas.",
+      "topic": "Recarga: interpretar antes de trocar",
+      "apply": "Aprendizado para a oficina: registre o estado da indicação e a mensagem, não apenas “não carrega”.",
+      "kind": "Adaptação didática em português do Brasil"
+    },
+    {
+      "name": "Bosch Mobility — Gerenciamento térmico",
+      "url": "https://www.bosch-mobility.com/en/solutions/thermal-management/thermal-management-for-hybrid-systems-and-electric-drives/",
+      "origin": "Alemanha · Original em inglês",
+      "summary": "O gerenciamento térmico organiza o fluxo de calor entre componentes e cabine. Conforme a arquitetura, a bateria pode precisar de aquecimento ou resfriamento. Circuitos de líquido e de refrigerante podem trabalhar em conjunto; o controle térmico influencia conforto, desempenho e recarga.",
+      "topic": "Temperatura faz parte do sistema",
+      "apply": "Aprendizado para a oficina: identifique a arquitetura do veículo antes de escolher fluido, componente ou teste.",
+      "kind": "Adaptação didática em português do Brasil"
+    },
+    {
+      "name": "Bosch Mobility — Eletrônica de potência",
+      "url": "https://www.bosch-mobility.com/en/solutions/power-electronics/",
+      "origin": "Alemanha · Original em inglês",
+      "summary": "O inversor converte a corrente contínua da bateria em corrente alternada para o motor nas arquiteturas descritas pela Bosch. O conversor DC/DC atende à rede de menor tensão. Embora os dois lidem com energia elétrica, suas funções são diferentes.",
+      "topic": "Inversor e DC/DC não são a mesma peça",
+      "apply": "Aprendizado para a oficina: distinguir a função do componente ajuda a formular hipóteses; não confirma a causa de uma falha.",
+      "kind": "Adaptação didática em português do Brasil"
+    },
+    {
+      "name": "ZF Aftermarket — E-Mobility para oficinas",
+      "url": "https://aftermarket.zf.com/en/aftermarket-portal/for-workshops/e-mobility/",
+      "origin": "Alemanha · Original em inglês",
+      "summary": "A ZF apresenta formação em mobilidade elétrica e qualificação para atividades relacionadas à alta tensão. A preparação da equipe deve acompanhar o trabalho a ser realizado e o risco envolvido.",
+      "topic": "Conhecimento com nível de atuação",
+      "apply": "Aprendizado para a oficina: conhecer a função da bateria é diferente de estar capacitado para intervir nela. Verifique formação e requisitos aplicáveis no Brasil.",
+      "kind": "Adaptação didática em português do Brasil"
+    }
+  ],
+  "cartilha": {
+    "title": "Cartilha de Eletromobilidade — Veículos Eletrificados",
+    "credit": "AEA · 1ª edição, 2023 · Material enviado pelo usuário",
+    "text": "Leitura complementar para arquitetura dos veículos, baterias, recarga, autonomia e segurança. As aulas revisam a terminologia para português do Brasil e distinguem potência (kW) de energia (kWh). Dados de mercado e infraestrutura de 2023 não são apresentados como atuais.",
+    "pages": "Tópicos consultados: arquitetura, pp. 13–16; conectores, pp. 17–18; baterias, pp. 19–26; autonomia, pp. 29–30; segurança e manutenção, pp. 31–44."
+  }
+}
